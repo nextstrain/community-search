@@ -1,0 +1,89 @@
+#!/usr/bin/env node
+const OctoKit = require("@octokit/rest");
+
+const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
+
+const MISSING_TOKEN = `
+
+You must provide a GitHub authentication token in GITHUB_TOKEN.
+Create one if necessary at <https://github.com/settings/tokens>.
+`;
+
+async function main() {
+  if (!GITHUB_TOKEN)
+    throw MISSING_TOKEN;
+
+  const github = new OctoKit({
+    auth: `token ${GITHUB_TOKEN}`
+  });
+
+  const search = github.search.code.endpoint.merge({
+    q: "path:auspice filename:*.json fork:true -user:blab -user:nextstrain"
+  });
+
+  const results = await github.paginate(search);
+
+  const valid_path = /^auspice\/[^\/]+[.]json$/;
+  const seen = {};
+
+  function cmp(a, b, x) {
+    return x(a).localeCompare(x(b), undefined, {sensitivity: "base"});
+  }
+
+  const community = results
+    .filter(result => valid_path.test(result.path))
+    .map(result => ({
+      file: result.path,
+      repo: {
+        name: result.repository.name,
+        owner: result.repository.owner.login,
+        full_name: result.repository.full_name
+      }
+    }))
+    .filter(({repo, file}) => {
+      const key = `${repo.full_name}/${file}`;
+
+      if (!key in seen)
+        seen[key] = 0
+
+      return !seen[key]++
+    })
+    .map(({repo, file}) => {
+      // GitHub user and repo names are case-insensitive, so having a repo
+      // user/FooBar that contains the files auspice/foobar_* does work.
+      const valid = file
+        .replace(/^auspice\//, "")
+        .toLowerCase()
+        .startsWith(repo.name.toLowerCase());
+
+      const suffixes = /(_(?<dataType>tree|meta|tip-frequencies|entropy|root-sequence|sequences))?[.]json$/;
+
+      const dataType = file.match(suffixes).groups.dataType;
+
+      const dataset = file
+        .replace(/^auspice\//, "")
+        .replace(new RegExp("^" + repo.name, "i"), "")
+        .replace(suffixes, "")
+        .replace(/_/g, "/");
+
+      const url = valid
+        ? `https://nextstrain.org/community/${repo.full_name}${dataset}`
+        : null;
+
+      return {url, valid, repo, file, dataType};
+    })
+    .sort((a,b) => cmp(a, b, x => x.repo.full_name)
+                || cmp(a, b, x => x.file))
+  ;
+
+  // Output as NDJSON
+  community
+    .map(record => JSON.stringify(record))
+    .forEach(record => console.log(record))
+  ;
+}
+
+main().catch(error => {
+  console.error("\nOops!", error);
+  process.exit(1);
+});

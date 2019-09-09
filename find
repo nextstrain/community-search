@@ -18,7 +18,7 @@ async function main() {
   });
 
   const search = github.search.code.endpoint.merge({
-    q: "path:auspice filename:*.json fork:true -user:blab -user:nextstrain"
+    q: "path:auspice filename:*.json fork:true -user:nextstrain"
   });
 
   const results = await github.paginate(search);

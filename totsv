@@ -1,0 +1,4 @@
+#!/bin/bash
+set -euo pipefail
+jq --raw-output '["repo","file","data_type","valid","url"] | @tsv' --null-input
+jq --raw-output '[.repo.full_name, .file, .dataType, .valid, .url] | @tsv' "$1"

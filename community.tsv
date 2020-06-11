@@ -1,4 +1,78 @@
 repo	file	data_type	valid	url
+ahentoff/EEE	auspice/EEE_meta.json	meta	true	https://nextstrain.org/community/ahentoff/EEE
+ahentoff/EEE	auspice/EEE_tree.json	tree	true	https://nextstrain.org/community/ahentoff/EEE
+ajmoorehealth/EBVAfrica	auspice/EBVAfrica_meta.json	meta	true	https://nextstrain.org/community/ajmoorehealth/EBVAfrica
+ajmoorehealth/EBVAfrica	auspice/EBVAfrica_tree.json	tree	true	https://nextstrain.org/community/ajmoorehealth/EBVAfrica
+akamick7/H7N9	auspice/H7N9_meta.json	meta	true	https://nextstrain.org/community/akamick7/H7N9
+akamick7/H7N9	auspice/H7N9_tree.json	tree	true	https://nextstrain.org/community/akamick7/H7N9
+AlexSelivanoff/sars-cov-2-russia	auspice/sars-cov-2-russia.json		true	https://nextstrain.org/community/AlexSelivanoff/sars-cov-2-russia
+AlexSelivanoff/sars-cov-2-russia	auspice/sars-cov-2-russia.json		true	https://nextstrain.org/community/AlexSelivanoff/sars-cov-2-russia
+alishaas/measles-USA-2019	auspice/measles-USA-2019_meta.json	meta	true	https://nextstrain.org/community/alishaas/measles-USA-2019
+alishaas/measles-USA-2019	auspice/measles-USA-2019_tree.json	tree	true	https://nextstrain.org/community/alishaas/measles-USA-2019
+aljames36/EbolainSierraLeone	auspice/EbolainSierraLeone_meta.json	meta	true	https://nextstrain.org/community/aljames36/EbolainSierraLeone
+aljames36/EbolainSierraLeone	auspice/EbolainSierraLeone_tree.json	tree	true	https://nextstrain.org/community/aljames36/EbolainSierraLeone
+anbajpai2/chikvindia	auspice/chikvindia_meta.json	meta	true	https://nextstrain.org/community/anbajpai2/chikvindia
+anbajpai2/chikvindia	auspice/chikvindia_tree.json	tree	true	https://nextstrain.org/community/anbajpai2/chikvindia
+andersen-lab/HCoV-19-Genomics-Nextstrain	auspice/HCoV-19-Genomics-Nextstrain_hCoV-19_usa_california_tip-frequencies.json	tip-frequencies	true	https://nextstrain.org/community/andersen-lab/HCoV-19-Genomics-Nextstrain/hCoV-19/usa/california
+andersen-lab/HCoV-19-Genomics-Nextstrain	auspice/HCoV-19-Genomics-Nextstrain_hCoV-19_usa_california.json		true	https://nextstrain.org/community/andersen-lab/HCoV-19-Genomics-Nextstrain/hCoV-19/usa/california
+andersen-lab/HCoV-19-Genomics-Nextstrain	auspice/HCoV-19-Genomics-Nextstrain_hCoV-19_usa_sandiego_tip-frequencies.json	tip-frequencies	true	https://nextstrain.org/community/andersen-lab/HCoV-19-Genomics-Nextstrain/hCoV-19/usa/sandiego
+andersen-lab/HCoV-19-Genomics-Nextstrain	auspice/HCoV-19-Genomics-Nextstrain_hCoV-19_usa_sandiego.json		true	https://nextstrain.org/community/andersen-lab/HCoV-19-Genomics-Nextstrain/hCoV-19/usa/sandiego
+andersonbrito/nextstrain-ref	auspice/nextstrain-ref_hcw.json		true	https://nextstrain.org/community/andersonbrito/nextstrain-ref/hcw
+andersonbrito/nextstrain-ref	auspice/nextstrain-ref_ncov9k.json		true	https://nextstrain.org/community/andersonbrito/nextstrain-ref/ncov9k
+andersonbrito/nextstrain-ref	auspice/nextstrain-ref_nomenclature.json		true	https://nextstrain.org/community/andersonbrito/nextstrain-ref/nomenclature
+andersonbrito/nextstrain-ref	auspice/nextstrain-ref_texasBiased.json		true	https://nextstrain.org/community/andersonbrito/nextstrain-ref/texasBiased
+andrew-rothstein/bd-gpl	auspice/bd-gpl_auspice_viz.json		true	https://nextstrain.org/community/andrew-rothstein/bd-gpl/auspice/viz
+andrew-rothstein/bd-panama-mut	auspice/bd-panama-mut_auspice_viz.json		true	https://nextstrain.org/community/andrew-rothstein/bd-panama-mut/auspice/viz
+andrew-rothstein/bd-range	auspice/bd-range_auspice_viz.json		true	https://nextstrain.org/community/andrew-rothstein/bd-range/auspice/viz
+andrew-rothstein/bd-range	auspice/bd-range_auspice_viz.json		true	https://nextstrain.org/community/andrew-rothstein/bd-range/auspice/viz
+andrew-rothstein/bd-root-gpl	auspice/bd-root-gpl_auspice_viz_fast.json		true	https://nextstrain.org/community/andrew-rothstein/bd-root-gpl/auspice/viz/fast
+andrew-rothstein/bd-root-gpl	auspice/bd-root-gpl_auspice_viz_infer.json		true	https://nextstrain.org/community/andrew-rothstein/bd-root-gpl/auspice/viz/infer
+andrew-rothstein/bd-root-gpl	auspice/bd-root-gpl_auspice_viz_reroot.json		true	https://nextstrain.org/community/andrew-rothstein/bd-root-gpl/auspice/viz/reroot
+andrew-rothstein/bd-root-gpl	auspice/bd-root-gpl_auspice_viz.json		true	https://nextstrain.org/community/andrew-rothstein/bd-root-gpl/auspice/viz
+andrew-rothstein/bd-sierra	auspice/bd-sierra.json		true	https://nextstrain.org/community/andrew-rothstein/bd-sierra
+andrewvalesano/HIVE-influenza	auspice/HIVE-influenza_BVic.json		true	https://nextstrain.org/community/andrewvalesano/HIVE-influenza/BVic
+andrewvalesano/HIVE-influenza	auspice/HIVE-influenza_BYam.json		true	https://nextstrain.org/community/andrewvalesano/HIVE-influenza/BYam
+andrewvalesano/HIVE-influenza	auspice/HIVE-influenza_H1N1.json		true	https://nextstrain.org/community/andrewvalesano/HIVE-influenza/H1N1
+andrewvalesano/HIVE-influenza	auspice/HIVE-influenza_H3N2.json		true	https://nextstrain.org/community/andrewvalesano/HIVE-influenza/H3N2
+appliedmicrobiologyresearch/Influenza-2016-2017	auspice/Influenza-2016-2017_h3n2_full_meta.json	meta	true	https://nextstrain.org/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/full
+appliedmicrobiologyresearch/Influenza-2016-2017	auspice/Influenza-2016-2017_h3n2_full_tree.json	tree	true	https://nextstrain.org/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/full
+appliedmicrobiologyresearch/Influenza-2016-2017	auspice/Influenza-2016-2017_h3n2_ha_meta.json	meta	true	https://nextstrain.org/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/ha
+appliedmicrobiologyresearch/Influenza-2016-2017	auspice/Influenza-2016-2017_h3n2_ha_tree.json	tree	true	https://nextstrain.org/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/ha
+appliedmicrobiologyresearch/Influenza-2016-2017	auspice/Influenza-2016-2017_h3n2_na_meta.json	meta	true	https://nextstrain.org/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/na
+appliedmicrobiologyresearch/Influenza-2016-2017	auspice/Influenza-2016-2017_h3n2_na_tree.json	tree	true	https://nextstrain.org/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/na
+appliedmicrobiologyresearch/Influenza-2016-2017	auspice/Influenza-2016-2017_h3n2_np_meta.json	meta	true	https://nextstrain.org/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/np
+appliedmicrobiologyresearch/Influenza-2016-2017	auspice/Influenza-2016-2017_h3n2_np_tree.json	tree	true	https://nextstrain.org/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/np
+appliedmicrobiologyresearch/Influenza-2016-2017	auspice/Influenza-2016-2017_h3n2_pa_meta.json	meta	true	https://nextstrain.org/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/pa
+appliedmicrobiologyresearch/Influenza-2016-2017	auspice/Influenza-2016-2017_h3n2_pa_tree.json	tree	true	https://nextstrain.org/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/pa
+appliedmicrobiologyresearch/Influenza-2016-2017	auspice/Influenza-2016-2017_h3n2_pb1_meta.json	meta	true	https://nextstrain.org/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/pb1
+appliedmicrobiologyresearch/Influenza-2016-2017	auspice/Influenza-2016-2017_h3n2_pb1_tree.json	tree	true	https://nextstrain.org/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/pb1
+appliedmicrobiologyresearch/Influenza-2016-2017	auspice/Influenza-2016-2017_h3n2_pb2_meta.json	meta	true	https://nextstrain.org/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/pb2
+appliedmicrobiologyresearch/Influenza-2016-2017	auspice/Influenza-2016-2017_h3n2_pb2_tree.json	tree	true	https://nextstrain.org/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/pb2
+avilab/sarscov2-epidemiology	auspice/sarscov2.json		false	
+banijolly/COVID-IGIB	auspice/COVID-IGIB_HQ-3june.json		true	https://nextstrain.org/community/banijolly/COVID-IGIB/HQ-3june
+banijolly/COVID-IGIB	auspice/COVID-IGIB_INDIA-HQ-3june.json		true	https://nextstrain.org/community/banijolly/COVID-IGIB/INDIA-HQ-3june
+banijolly/COVID-IGIB	auspice/COVID-IGIB_run7.json		true	https://nextstrain.org/community/banijolly/COVID-IGIB/run7
+banijolly/COVID-IGIB	auspice/COVID-IGIB_withicov.json		true	https://nextstrain.org/community/banijolly/COVID-IGIB/withicov
+banijolly/Phylovis	auspice/COVID-india_10may.json		false	
+banijolly/Phylovis	auspice/Phylovis_COVID-india.json		true	https://nextstrain.org/community/banijolly/Phylovis/COVID-india
+banijolly/Phylovis	auspice/Phylovis_COVID-Middle-East.json		true	https://nextstrain.org/community/banijolly/Phylovis/COVID-Middle-East
+BercesteDincer/gs541-phylogeography	auspice/gs541-phylogeography.json		true	https://nextstrain.org/community/BercesteDincer/gs541-phylogeography
+BercesteDincer/gs541-phylogeography	auspice/ncov_global_tip-frequencies.json	tip-frequencies	false	
+Bergthalerlab/SARSCoV2	auspice/SARSCoV2_NextstrainAustria.json		true	https://nextstrain.org/community/Bergthalerlab/SARSCoV2/NextstrainAustria
+bharathramh/ATCG	auspice/ATCG_ncov.json		true	https://nextstrain.org/community/bharathramh/ATCG/ncov
+bharathramh/ATCG	auspice/India-cov-v2.json		false	
+bharathramh/ATCG	auspice/India-cov.json		false	
+bharathramh/ATCG	auspice/India.json		false	
+bharathramh/ATCG	auspice/ncov.json		false	
+Bioinfoexperts/covid-LA	auspice/covid-LA_20200513.json		true	https://nextstrain.org/community/Bioinfoexperts/covid-LA/20200513
+Bioinfoexperts/covid-LA	auspice/covid-LA_20200519_north-america.json		true	https://nextstrain.org/community/Bioinfoexperts/covid-LA/20200519/north-america
+Bioinfoexperts/covid-LA	auspice/covid-LA_20200521_USA.json		true	https://nextstrain.org/community/Bioinfoexperts/covid-LA/20200521/USA
+Bioinfoexperts/covid-LA	auspice/covid-LA_20200528_Ochsner.json		true	https://nextstrain.org/community/Bioinfoexperts/covid-LA/20200528/Ochsner
+Bioinfoexperts/covid-LA	auspice/covid-LA_20200528_USA.json		true	https://nextstrain.org/community/Bioinfoexperts/covid-LA/20200528/USA
+Bioinfoexperts/covid-LA	auspice/covid-LA_20200608_USA.json		true	https://nextstrain.org/community/Bioinfoexperts/covid-LA/20200608/USA
+blab/beta-cov	auspice/beta-cov.json		true	https://nextstrain.org/community/blab/beta-cov
+blab/ebola-narrative-ms	auspice/ebola-narrative-ms_meta.json	meta	true	https://nextstrain.org/community/blab/ebola-narrative-ms
+blab/ebola-narrative-ms	auspice/ebola-narrative-ms_tree.json	tree	true	https://nextstrain.org/community/blab/ebola-narrative-ms
 blab/egg-passage	auspice/flu_seasonal_h3n2_ha_12y_fra_meta.json	meta	false	
 blab/egg-passage	auspice/flu_seasonal_h3n2_ha_12y_fra_root-sequence.json	root-sequence	false	
 blab/egg-passage	auspice/flu_seasonal_h3n2_ha_12y_fra_tip-frequencies.json	tip-frequencies	false	
@@ -15,86 +89,102 @@ blab/egg-passage	auspice/flu_seasonal_h3n2_ha_6y_hi_meta.json	meta	false
 blab/egg-passage	auspice/flu_seasonal_h3n2_ha_6y_hi_root-sequence.json	root-sequence	false	
 blab/egg-passage	auspice/flu_seasonal_h3n2_ha_6y_hi_tip-frequencies.json	tip-frequencies	false	
 blab/egg-passage	auspice/flu_seasonal_h3n2_ha_6y_hi_tree.json	tree	false	
-blab/h3n2-reassortment	auspice/flu_seasonal_h3n2_ha_12y_meta.json	meta	false	
-blab/h3n2-reassortment	auspice/flu_seasonal_h3n2_ha_12y_tip-frequencies.json	tip-frequencies	false	
-blab/h3n2-reassortment	auspice/flu_seasonal_h3n2_ha_12y_tree.json	tree	false	
-blab/h3n2-reassortment	auspice/flu_seasonal_h3n2_ha_2y_entropy.json	entropy	false	
-blab/h3n2-reassortment	auspice/flu_seasonal_h3n2_ha_2y_frequencies.json		false	
-blab/h3n2-reassortment	auspice/flu_seasonal_h3n2_ha_2y_meta.json	meta	false	
-blab/h3n2-reassortment	auspice/flu_seasonal_h3n2_ha_2y_sequences.json	sequences	false	
-blab/h3n2-reassortment	auspice/flu_seasonal_h3n2_ha_2y_tip-frequencies.json	tip-frequencies	false	
-blab/h3n2-reassortment	auspice/flu_seasonal_h3n2_ha_2y_tree.json	tree	false	
-blab/h3n2-reassortment	auspice/flu_seasonal_h3n2_ha_3y_meta.json	meta	false	
-blab/h3n2-reassortment	auspice/flu_seasonal_h3n2_ha_3y_tip-frequencies.json	tip-frequencies	false	
-blab/h3n2-reassortment	auspice/flu_seasonal_h3n2_ha_3y_tree.json	tree	false	
-blab/h3n2-reassortment	auspice/flu_seasonal_h3n2_ha_6y_meta.json	meta	false	
-blab/h3n2-reassortment	auspice/flu_seasonal_h3n2_ha_6y_tip-frequencies.json	tip-frequencies	false	
-blab/h3n2-reassortment	auspice/flu_seasonal_h3n2_ha_6y_tree.json	tree	false	
-blab/h3n2-reassortment	auspice/flu_seasonal_h3n2_mp_2y_entropy.json	entropy	false	
-blab/h3n2-reassortment	auspice/flu_seasonal_h3n2_mp_2y_frequencies.json		false	
-blab/h3n2-reassortment	auspice/flu_seasonal_h3n2_mp_2y_meta.json	meta	false	
-blab/h3n2-reassortment	auspice/flu_seasonal_h3n2_mp_2y_sequences.json	sequences	false	
-blab/h3n2-reassortment	auspice/flu_seasonal_h3n2_mp_2y_tip-frequencies.json	tip-frequencies	false	
-blab/h3n2-reassortment	auspice/flu_seasonal_h3n2_mp_2y_tree.json	tree	false	
-blab/h3n2-reassortment	auspice/flu_seasonal_h3n2_na_12y_meta.json	meta	false	
-blab/h3n2-reassortment	auspice/flu_seasonal_h3n2_na_12y_tip-frequencies.json	tip-frequencies	false	
-blab/h3n2-reassortment	auspice/flu_seasonal_h3n2_na_12y_tree.json	tree	false	
-blab/h3n2-reassortment	auspice/flu_seasonal_h3n2_na_2y_entropy.json	entropy	false	
-blab/h3n2-reassortment	auspice/flu_seasonal_h3n2_na_2y_frequencies.json		false	
-blab/h3n2-reassortment	auspice/flu_seasonal_h3n2_na_2y_meta.json	meta	false	
-blab/h3n2-reassortment	auspice/flu_seasonal_h3n2_na_2y_sequences.json	sequences	false	
-blab/h3n2-reassortment	auspice/flu_seasonal_h3n2_na_2y_tip-frequencies.json	tip-frequencies	false	
-blab/h3n2-reassortment	auspice/flu_seasonal_h3n2_na_2y_tree.json	tree	false	
-blab/h3n2-reassortment	auspice/flu_seasonal_h3n2_na_3y_meta.json	meta	false	
-blab/h3n2-reassortment	auspice/flu_seasonal_h3n2_na_3y_tip-frequencies.json	tip-frequencies	false	
-blab/h3n2-reassortment	auspice/flu_seasonal_h3n2_na_3y_tree.json	tree	false	
-blab/h3n2-reassortment	auspice/flu_seasonal_h3n2_na_6y_meta.json	meta	false	
-blab/h3n2-reassortment	auspice/flu_seasonal_h3n2_na_6y_tip-frequencies.json	tip-frequencies	false	
-blab/h3n2-reassortment	auspice/flu_seasonal_h3n2_na_6y_tree.json	tree	false	
-blab/h3n2-reassortment	auspice/flu_seasonal_h3n2_np_2y_entropy.json	entropy	false	
-blab/h3n2-reassortment	auspice/flu_seasonal_h3n2_np_2y_frequencies.json		false	
-blab/h3n2-reassortment	auspice/flu_seasonal_h3n2_np_2y_meta.json	meta	false	
-blab/h3n2-reassortment	auspice/flu_seasonal_h3n2_np_2y_sequences.json	sequences	false	
-blab/h3n2-reassortment	auspice/flu_seasonal_h3n2_np_2y_tip-frequencies.json	tip-frequencies	false	
-blab/h3n2-reassortment	auspice/flu_seasonal_h3n2_np_2y_tree.json	tree	false	
-blab/h3n2-reassortment	auspice/flu_seasonal_h3n2_ns_2y_entropy.json	entropy	false	
-blab/h3n2-reassortment	auspice/flu_seasonal_h3n2_ns_2y_frequencies.json		false	
-blab/h3n2-reassortment	auspice/flu_seasonal_h3n2_ns_2y_meta.json	meta	false	
-blab/h3n2-reassortment	auspice/flu_seasonal_h3n2_ns_2y_sequences.json	sequences	false	
-blab/h3n2-reassortment	auspice/flu_seasonal_h3n2_ns_2y_tip-frequencies.json	tip-frequencies	false	
-blab/h3n2-reassortment	auspice/flu_seasonal_h3n2_ns_2y_tree.json	tree	false	
-blab/h3n2-reassortment	auspice/flu_seasonal_h3n2_pa_2y_entropy.json	entropy	false	
-blab/h3n2-reassortment	auspice/flu_seasonal_h3n2_pa_2y_frequencies.json		false	
-blab/h3n2-reassortment	auspice/flu_seasonal_h3n2_pa_2y_meta.json	meta	false	
-blab/h3n2-reassortment	auspice/flu_seasonal_h3n2_pa_2y_sequences.json	sequences	false	
-blab/h3n2-reassortment	auspice/flu_seasonal_h3n2_pa_2y_tip-frequencies.json	tip-frequencies	false	
-blab/h3n2-reassortment	auspice/flu_seasonal_h3n2_pa_2y_tree.json	tree	false	
-blab/h3n2-reassortment	auspice/flu_seasonal_h3n2_pb1_2y_entropy.json	entropy	false	
-blab/h3n2-reassortment	auspice/flu_seasonal_h3n2_pb1_2y_frequencies.json		false	
-blab/h3n2-reassortment	auspice/flu_seasonal_h3n2_pb1_2y_meta.json	meta	false	
-blab/h3n2-reassortment	auspice/flu_seasonal_h3n2_pb1_2y_sequences.json	sequences	false	
-blab/h3n2-reassortment	auspice/flu_seasonal_h3n2_pb1_2y_tip-frequencies.json	tip-frequencies	false	
-blab/h3n2-reassortment	auspice/flu_seasonal_h3n2_pb1_2y_tree.json	tree	false	
-blab/h3n2-reassortment	auspice/flu_seasonal_h3n2_pb2_2y_entropy.json	entropy	false	
-blab/h3n2-reassortment	auspice/flu_seasonal_h3n2_pb2_2y_frequencies.json		false	
-blab/h3n2-reassortment	auspice/flu_seasonal_h3n2_pb2_2y_meta.json	meta	false	
-blab/h3n2-reassortment	auspice/flu_seasonal_h3n2_pb2_2y_sequences.json	sequences	false	
-blab/h3n2-reassortment	auspice/flu_seasonal_h3n2_pb2_2y_tip-frequencies.json	tip-frequencies	false	
-blab/h3n2-reassortment	auspice/flu_seasonal_h3n2_pb2_2y_tree.json	tree	false	
-blab/zika-colombia	auspice/zika-colombia_meta.json	meta	true	https://nextstrain.org/community/blab/zika-colombia
+blab/h3n2-reassortment	auspice/h3n2-reassortment_ha_meta.json	meta	true	https://nextstrain.org/community/blab/h3n2-reassortment/ha
+blab/h3n2-reassortment	auspice/h3n2-reassortment_ha_tip-frequencies.json	tip-frequencies	true	https://nextstrain.org/community/blab/h3n2-reassortment/ha
+blab/h3n2-reassortment	auspice/h3n2-reassortment_ha_tree.json	tree	true	https://nextstrain.org/community/blab/h3n2-reassortment/ha
+blab/h3n2-reassortment	auspice/h3n2-reassortment_mp_meta.json	meta	true	https://nextstrain.org/community/blab/h3n2-reassortment/mp
+blab/h3n2-reassortment	auspice/h3n2-reassortment_mp_tip-frequencies.json	tip-frequencies	true	https://nextstrain.org/community/blab/h3n2-reassortment/mp
+blab/h3n2-reassortment	auspice/h3n2-reassortment_mp_tree.json	tree	true	https://nextstrain.org/community/blab/h3n2-reassortment/mp
+blab/h3n2-reassortment	auspice/h3n2-reassortment_na_meta.json	meta	true	https://nextstrain.org/community/blab/h3n2-reassortment/na
+blab/h3n2-reassortment	auspice/h3n2-reassortment_na_tip-frequencies.json	tip-frequencies	true	https://nextstrain.org/community/blab/h3n2-reassortment/na
+blab/h3n2-reassortment	auspice/h3n2-reassortment_na_tree.json	tree	true	https://nextstrain.org/community/blab/h3n2-reassortment/na
+blab/h3n2-reassortment	auspice/h3n2-reassortment_np_meta.json	meta	true	https://nextstrain.org/community/blab/h3n2-reassortment/np
+blab/h3n2-reassortment	auspice/h3n2-reassortment_np_tip-frequencies.json	tip-frequencies	true	https://nextstrain.org/community/blab/h3n2-reassortment/np
+blab/h3n2-reassortment	auspice/h3n2-reassortment_np_tree.json	tree	true	https://nextstrain.org/community/blab/h3n2-reassortment/np
+blab/h3n2-reassortment	auspice/h3n2-reassortment_ns_meta.json	meta	true	https://nextstrain.org/community/blab/h3n2-reassortment/ns
+blab/h3n2-reassortment	auspice/h3n2-reassortment_ns_tip-frequencies.json	tip-frequencies	true	https://nextstrain.org/community/blab/h3n2-reassortment/ns
+blab/h3n2-reassortment	auspice/h3n2-reassortment_ns_tree.json	tree	true	https://nextstrain.org/community/blab/h3n2-reassortment/ns
+blab/h3n2-reassortment	auspice/h3n2-reassortment_pa_meta.json	meta	true	https://nextstrain.org/community/blab/h3n2-reassortment/pa
+blab/h3n2-reassortment	auspice/h3n2-reassortment_pa_tip-frequencies.json	tip-frequencies	true	https://nextstrain.org/community/blab/h3n2-reassortment/pa
+blab/h3n2-reassortment	auspice/h3n2-reassortment_pa_tree.json	tree	true	https://nextstrain.org/community/blab/h3n2-reassortment/pa
+blab/h3n2-reassortment	auspice/h3n2-reassortment_pb1_meta.json	meta	true	https://nextstrain.org/community/blab/h3n2-reassortment/pb1
+blab/h3n2-reassortment	auspice/h3n2-reassortment_pb1_tip-frequencies.json	tip-frequencies	true	https://nextstrain.org/community/blab/h3n2-reassortment/pb1
+blab/h3n2-reassortment	auspice/h3n2-reassortment_pb1_tree.json	tree	true	https://nextstrain.org/community/blab/h3n2-reassortment/pb1
+blab/h3n2-reassortment	auspice/h3n2-reassortment_pb2_meta.json	meta	true	https://nextstrain.org/community/blab/h3n2-reassortment/pb2
+blab/h3n2-reassortment	auspice/h3n2-reassortment_pb2_tip-frequencies.json	tip-frequencies	true	https://nextstrain.org/community/blab/h3n2-reassortment/pb2
+blab/h3n2-reassortment	auspice/h3n2-reassortment_pb2_tree.json	tree	true	https://nextstrain.org/community/blab/h3n2-reassortment/pb2
+blab/h5n1-cambodia	auspice/h5n1-cambodia_ha_meta.json	meta	true	https://nextstrain.org/community/blab/h5n1-cambodia/ha
+blab/h5n1-cambodia	auspice/h5n1-cambodia_ha_tree.json	tree	true	https://nextstrain.org/community/blab/h5n1-cambodia/ha
+blab/h5n1-cambodia	auspice/h5n1-cambodia_mp_meta.json	meta	true	https://nextstrain.org/community/blab/h5n1-cambodia/mp
+blab/h5n1-cambodia	auspice/h5n1-cambodia_mp_tree.json	tree	true	https://nextstrain.org/community/blab/h5n1-cambodia/mp
+blab/h5n1-cambodia	auspice/h5n1-cambodia_na_meta.json	meta	true	https://nextstrain.org/community/blab/h5n1-cambodia/na
+blab/h5n1-cambodia	auspice/h5n1-cambodia_na_tree.json	tree	true	https://nextstrain.org/community/blab/h5n1-cambodia/na
+blab/ncov-cryptic-transmission	auspice/ncov-cryptic-transmission_wa-clade.json		true	https://nextstrain.org/community/blab/ncov-cryptic-transmission/wa-clade
+blab/ncov-cryptic-transmission	auspice/ncov-cryptic-transmission.json		true	https://nextstrain.org/community/blab/ncov-cryptic-transmission
+blab/sars-like-cov	auspice/sars-like-cov.json		true	https://nextstrain.org/community/blab/sars-like-cov
 blab/zika-colombia	auspice/zika-colombia_tree.json	tree	true	https://nextstrain.org/community/blab/zika-colombia
 blab/zika-usvi	auspice/zika-usvi_meta.json	meta	true	https://nextstrain.org/community/blab/zika-usvi
 blab/zika-usvi	auspice/zika-usvi_n115_meta.json	meta	true	https://nextstrain.org/community/blab/zika-usvi/n115
 blab/zika-usvi	auspice/zika-usvi_n115_tree.json	tree	true	https://nextstrain.org/community/blab/zika-usvi/n115
 blab/zika-usvi	auspice/zika-usvi_tree.json	tree	true	https://nextstrain.org/community/blab/zika-usvi
+cck42/blah	auspice/blah_newbigtree.json		true	https://nextstrain.org/community/cck42/blah/newbigtree
+cck42/Hepatitis-delta	auspice/Hepatitis-delta_meta.json	meta	true	https://nextstrain.org/community/cck42/Hepatitis-delta
+cck42/Hepatitis-delta	auspice/Hepatitis-delta_tree.json	tree	true	https://nextstrain.org/community/cck42/Hepatitis-delta
+cck42/zikv-pr_548	auspice/ZIKV-PR_meta.json	meta	false	
+cck42/zikv-pr_548	auspice/ZIKV-PR_tree.json	tree	false	
+cjjossart/Bacillus_anthracis_PXO1	auspice/Bacillus_anthracis_PXO1_meta.json	meta	true	https://nextstrain.org/community/cjjossart/Bacillus_anthracis_PXO1
+cjjossart/Bacillus_anthracis_PXO1	auspice/Bacillus_anthracis_PXO1_tree.json	tree	true	https://nextstrain.org/community/cjjossart/Bacillus_anthracis_PXO1
+colejensen/Covid	auspice/Covid_bigtree.json		true	https://nextstrain.org/community/colejensen/Covid/bigtree
+colejensen/Covid	auspice/Covid_bigtree.json		true	https://nextstrain.org/community/colejensen/Covid/bigtree
+colejensen/Covid	auspice/Covid_cvd.json		true	https://nextstrain.org/community/colejensen/Covid/cvd
+colejensen/Covid	auspice/Covid_newbigtree.json		true	https://nextstrain.org/community/colejensen/Covid/newbigtree
+colejensen/Covid	auspice/Covid_newbigtree.json		true	https://nextstrain.org/community/colejensen/Covid/newbigtree
+colejensen/Covid	auspice/Covid_newcheck.json		true	https://nextstrain.org/community/colejensen/Covid/newcheck
+colejensen/Covid	auspice/Covid_newcheck.json		true	https://nextstrain.org/community/colejensen/Covid/newcheck
+colejensen/Covid	auspice/Covid_newpipeline.json		true	https://nextstrain.org/community/colejensen/Covid/newpipeline
+colejensen/Covid	auspice/Covid_newpipeline.json		true	https://nextstrain.org/community/colejensen/Covid/newpipeline
+colejensen/Covid	auspice/Covid_texas.json		true	https://nextstrain.org/community/colejensen/Covid/texas
+colejensen/Covid	auspice/Covid_texas.json		true	https://nextstrain.org/community/colejensen/Covid/texas
+colejensen/Covid	auspice/Covid_update08.json		true	https://nextstrain.org/community/colejensen/Covid/update08
+colejensen/Covid	auspice/Covid_update09.json		true	https://nextstrain.org/community/colejensen/Covid/update09
+colejensen/Covid	auspice/Covid_update3.json		true	https://nextstrain.org/community/colejensen/Covid/update3
+colejensen/Covid	auspice/Covid_update3.json		true	https://nextstrain.org/community/colejensen/Covid/update3
+colejensen/Covid	auspice/Covid_update4.json		true	https://nextstrain.org/community/colejensen/Covid/update4
+colejensen/Covid	auspice/Covid_update4.json		true	https://nextstrain.org/community/colejensen/Covid/update4
+colejensen/Covid	auspice/Covid_update4new.json		true	https://nextstrain.org/community/colejensen/Covid/update4new
+colejensen/Covid	auspice/Covid_update4new.json		true	https://nextstrain.org/community/colejensen/Covid/update4new
+colejensen/Covid	auspice/Covid_update4test.json		true	https://nextstrain.org/community/colejensen/Covid/update4test
+colejensen/Covid	auspice/Covid_update4test.json		true	https://nextstrain.org/community/colejensen/Covid/update4test
+colejensen/Covid	auspice/Covid_update5.json		true	https://nextstrain.org/community/colejensen/Covid/update5
+colejensen/Covid	auspice/Covid_update5.json		true	https://nextstrain.org/community/colejensen/Covid/update5
+colejensen/Covid	auspice/Covid_update6.json		true	https://nextstrain.org/community/colejensen/Covid/update6
+colejensen/Covid	auspice/Covid_update6.json		true	https://nextstrain.org/community/colejensen/Covid/update6
+colejensen/zaire_ebola_homogenity_in_guinea	auspice/zaire_ebola_homogenity_in_guinea_meta.json	meta	true	https://nextstrain.org/community/colejensen/zaire_ebola_homogenity_in_guinea
+colejensen/zaire_ebola_homogenity_in_guinea	auspice/zaire_ebola_homogenity_in_guinea_tree.json	tree	true	https://nextstrain.org/community/colejensen/zaire_ebola_homogenity_in_guinea
+czbiohub/covidtracker	auspice/covidtracker_ca.json		true	https://nextstrain.org/community/czbiohub/covidtracker/ca
 DasuberVetLeonidas/hendravirus	auspice/hendra_entropy.json	entropy	false	
 DasuberVetLeonidas/hendravirus	auspice/hendra_meta.json	meta	false	
 DasuberVetLeonidas/hendravirus	auspice/hendra_sequences.json	sequences	false	
 DasuberVetLeonidas/hendravirus	auspice/hendra_tree.json	tree	false	
+dbarksdale/H1N1Chi	auspice/H1N1Chi_meta.json	meta	true	https://nextstrain.org/community/dbarksdale/H1N1Chi
+dbarksdale/H1N1Chi	auspice/H1N1Chi_tree.json	tree	true	https://nextstrain.org/community/dbarksdale/H1N1Chi
+dwwhall/Nextstrain	auspice/barcodes&Genbank.json		false	
+dwwhall/Nextstrain	auspice/ncov_global_tip-frequencies.json	tip-frequencies	false	
+dwwhall/Nextstrain	auspice/ncov_global.json		false	
+dwwhall/Nextstrain	auspice/ncov_with_accessions copy.json		false	
+dwwhall/Nextstrain	auspice/Nextstrain.json		true	https://nextstrain.org/community/dwwhall/Nextstrain
 EduanWilkinson/hiv-1_crf01	auspice/hiv-1_crf01_meta.json	meta	true	https://nextstrain.org/community/EduanWilkinson/hiv-1_crf01
 EduanWilkinson/hiv-1_crf01	auspice/hiv-1_crf01_tree.json	tree	true	https://nextstrain.org/community/EduanWilkinson/hiv-1_crf01
-EduanWilkinson/SHARP	auspice/sharp_meta.json	meta	true	https://nextstrain.org/community/EduanWilkinson/SHARP
-EduanWilkinson/SHARP	auspice/sharp_tree.json	tree	true	https://nextstrain.org/community/EduanWilkinson/SHARP
+EduanWilkinson/ncov_cpt	auspice/ncov_cpt_tip-frequencies.json	tip-frequencies	true	https://nextstrain.org/community/EduanWilkinson/ncov_cpt
+EduanWilkinson/ncov_kzn_covid_tech	auspice/ncov_kzn_covid_tech_tip-frequencies.json	tip-frequencies	true	https://nextstrain.org/community/EduanWilkinson/ncov_kzn_covid_tech
+EduanWilkinson/ncov_kzn_covid_tech	auspice/ncov_kzn_covid_tech.json		true	https://nextstrain.org/community/EduanWilkinson/ncov_kzn_covid_tech
+EduanWilkinson/ncov-kzn	auspice/ncov-kzn_tip-frequencies.json	tip-frequencies	true	https://nextstrain.org/community/EduanWilkinson/ncov-kzn
+EduanWilkinson/ncov-kzn	auspice/ncov-kzn.json		true	https://nextstrain.org/community/EduanWilkinson/ncov-kzn
+eledgerley/mersasia	auspice/mersasia_meta.json	meta	true	https://nextstrain.org/community/eledgerley/mersasia
+eledgerley/mersasia	auspice/mersasia_tree.json	tree	true	https://nextstrain.org/community/eledgerley/mersasia
+eliza-barkan/gs541-phylogeography	auspice/ncov_global_tip-frequencies.json	tip-frequencies	false	
+emmahodcroft/echo30	auspice/echo30_3d_all_meta.json	meta	true	https://nextstrain.org/community/emmahodcroft/echo30/3d/all
+emmahodcroft/echo30	auspice/echo30_3d_all_tree.json	tree	true	https://nextstrain.org/community/emmahodcroft/echo30/3d/all
 emmahodcroft/echo30	auspice/echo30_vp1_all_meta.json	meta	true	https://nextstrain.org/community/emmahodcroft/echo30/vp1/all
 emmahodcroft/echo30	auspice/echo30_vp1_all_tree.json	tree	true	https://nextstrain.org/community/emmahodcroft/echo30/vp1/all
 emmahodcroft/echo30	auspice/echo30_vp1_all-clin_meta.json	meta	true	https://nextstrain.org/community/emmahodcroft/echo30/vp1/all-clin
@@ -121,6 +211,12 @@ emmahodcroft/RVF	auspice/RVF_NS_meta.json	meta	true	https://nextstrain.org/commu
 emmahodcroft/RVF	auspice/RVF_NS_tree.json	tree	true	https://nextstrain.org/community/emmahodcroft/RVF/NS
 emmahodcroft/RVF	auspice/RVF_S_meta.json	meta	true	https://nextstrain.org/community/emmahodcroft/RVF/S
 emmahodcroft/RVF	auspice/RVF_S_tree.json	tree	true	https://nextstrain.org/community/emmahodcroft/RVF/S
+emmahodcroft/south-usa-sarscov2	auspice/south-usa-sarscov2_louisiana_tip-frequencies.json	tip-frequencies	true	https://nextstrain.org/community/emmahodcroft/south-usa-sarscov2/louisiana
+emmahodcroft/south-usa-sarscov2	auspice/south-usa-sarscov2_louisiana.json		true	https://nextstrain.org/community/emmahodcroft/south-usa-sarscov2/louisiana
+emmahodcroft/south-usa-sarscov2	auspice/south-usa-sarscov2_south-central_tip-frequencies.json	tip-frequencies	true	https://nextstrain.org/community/emmahodcroft/south-usa-sarscov2/south-central
+emmahodcroft/south-usa-sarscov2	auspice/south-usa-sarscov2_south-central.json		true	https://nextstrain.org/community/emmahodcroft/south-usa-sarscov2/south-central
+emmahodcroft/south-usa-sarscov2	auspice/south-usa-sarscov2_texas_tip-frequencies.json	tip-frequencies	true	https://nextstrain.org/community/emmahodcroft/south-usa-sarscov2/texas
+emmahodcroft/south-usa-sarscov2	auspice/south-usa-sarscov2_texas.json		true	https://nextstrain.org/community/emmahodcroft/south-usa-sarscov2/texas
 emmahodcroft/tb	auspice/tb_camcol_meta.json	meta	true	https://nextstrain.org/community/emmahodcroft/tb/camcol
 emmahodcroft/tb	auspice/tb_camcol_tree.json	tree	true	https://nextstrain.org/community/emmahodcroft/tb/camcol
 emmahodcroft/tb	auspice/tb_camcolMinDev_meta.json	meta	true	https://nextstrain.org/community/emmahodcroft/tb/camcolMinDev
@@ -141,6 +237,8 @@ emmahodcroft/tb	auspice/tb_echo30-vp1_Group7_meta.json	meta	true	https://nextstr
 emmahodcroft/tb	auspice/tb_echo30-vp1_Group7_tree.json	tree	true	https://nextstrain.org/community/emmahodcroft/tb/echo30-vp1/Group7
 emmahodcroft/tb	auspice/tb_echo30-vp1_meta.json	meta	true	https://nextstrain.org/community/emmahodcroft/tb/echo30-vp1
 emmahodcroft/tb	auspice/tb_echo30-vp1_tree.json	tree	true	https://nextstrain.org/community/emmahodcroft/tb/echo30-vp1
+emmahodcroft/tb	auspice/tb_eee_meta.json	meta	true	https://nextstrain.org/community/emmahodcroft/tb/eee
+emmahodcroft/tb	auspice/tb_eee_tree.json	tree	true	https://nextstrain.org/community/emmahodcroft/tb/eee
 emmahodcroft/tb	auspice/tb_enterovirus_d68_2A_meta.json	meta	true	https://nextstrain.org/community/emmahodcroft/tb/enterovirus/d68/2A
 emmahodcroft/tb	auspice/tb_enterovirus_d68_2A_tree.json	tree	true	https://nextstrain.org/community/emmahodcroft/tb/enterovirus/d68/2A
 emmahodcroft/tb	auspice/tb_enterovirus_d68_2B_meta.json	meta	true	https://nextstrain.org/community/emmahodcroft/tb/enterovirus/d68/2B
@@ -155,8 +253,26 @@ emmahodcroft/tb	auspice/tb_enterovirus_d68_3C_meta.json	meta	true	https://nextst
 emmahodcroft/tb	auspice/tb_enterovirus_d68_3C_tree.json	tree	true	https://nextstrain.org/community/emmahodcroft/tb/enterovirus/d68/3C
 emmahodcroft/tb	auspice/tb_enterovirus_d68_3D_meta.json	meta	true	https://nextstrain.org/community/emmahodcroft/tb/enterovirus/d68/3D
 emmahodcroft/tb	auspice/tb_enterovirus_d68_3D_tree.json	tree	true	https://nextstrain.org/community/emmahodcroft/tb/enterovirus/d68/3D
+emmahodcroft/tb	auspice/tb_enterovirus_d68_genome_2019_meta.json	meta	true	https://nextstrain.org/community/emmahodcroft/tb/enterovirus/d68/genome/2019
+emmahodcroft/tb	auspice/tb_enterovirus_d68_genome_2019_tree.json	tree	true	https://nextstrain.org/community/emmahodcroft/tb/enterovirus/d68/genome/2019
+emmahodcroft/tb	auspice/tb_enterovirus_d68_vp1_2019_meta.json	meta	true	https://nextstrain.org/community/emmahodcroft/tb/enterovirus/d68/vp1/2019
+emmahodcroft/tb	auspice/tb_enterovirus_d68_vp1_2019_tree.json	tree	true	https://nextstrain.org/community/emmahodcroft/tb/enterovirus/d68/vp1/2019
+emmahodcroft/tb	auspice/tb_enterovirus_d68_vp1_2019old_meta.json	meta	true	https://nextstrain.org/community/emmahodcroft/tb/enterovirus/d68/vp1/2019old
+emmahodcroft/tb	auspice/tb_enterovirus_d68_vp1_2019old_tree.json	tree	true	https://nextstrain.org/community/emmahodcroft/tb/enterovirus/d68/vp1/2019old
+emmahodcroft/tb	auspice/tb_enterovirus_d68_vp1_300-16Jan_meta.json	meta	true	https://nextstrain.org/community/emmahodcroft/tb/enterovirus/d68/vp1/300-16Jan
+emmahodcroft/tb	auspice/tb_enterovirus_d68_vp1_300-16Jan_tree.json	tree	true	https://nextstrain.org/community/emmahodcroft/tb/enterovirus/d68/vp1/300-16Jan
+emmahodcroft/tb	auspice/tb_enterovirus_d68_vp1_300-21Jan_meta.json	meta	true	https://nextstrain.org/community/emmahodcroft/tb/enterovirus/d68/vp1/300-21Jan
+emmahodcroft/tb	auspice/tb_enterovirus_d68_vp1_300-21Jan_tree.json	tree	true	https://nextstrain.org/community/emmahodcroft/tb/enterovirus/d68/vp1/300-21Jan
 emmahodcroft/tb	auspice/tb_enterovirus_d68_vp1_meta.json	meta	true	https://nextstrain.org/community/emmahodcroft/tb/enterovirus/d68/vp1
 emmahodcroft/tb	auspice/tb_enterovirus_d68_vp1_tree.json	tree	true	https://nextstrain.org/community/emmahodcroft/tb/enterovirus/d68/vp1
+emmahodcroft/tb	auspice/tb_enterovirus_d68_vp1-300_2019_meta.json	meta	true	https://nextstrain.org/community/emmahodcroft/tb/enterovirus/d68/vp1-300/2019
+emmahodcroft/tb	auspice/tb_enterovirus_d68_vp1-300_2019_tree.json	tree	true	https://nextstrain.org/community/emmahodcroft/tb/enterovirus/d68/vp1-300/2019
+emmahodcroft/tb	auspice/tb_enterovirus_d68_vp1-300_2019-hist_meta.json	meta	true	https://nextstrain.org/community/emmahodcroft/tb/enterovirus/d68/vp1-300/2019-hist
+emmahodcroft/tb	auspice/tb_enterovirus_d68_vp1-300_2019-hist_tree.json	tree	true	https://nextstrain.org/community/emmahodcroft/tb/enterovirus/d68/vp1-300/2019-hist
+emmahodcroft/tb	auspice/tb_enterovirus_d68_vp1-300-3Dec2019_meta.json	meta	true	https://nextstrain.org/community/emmahodcroft/tb/enterovirus/d68/vp1-300-3Dec2019
+emmahodcroft/tb	auspice/tb_enterovirus_d68_vp1-300-3Dec2019_tree.json	tree	true	https://nextstrain.org/community/emmahodcroft/tb/enterovirus/d68/vp1-300-3Dec2019
+emmahodcroft/tb	auspice/tb_enterovirus_d68_vp1-300-5Dec2019_meta.json	meta	true	https://nextstrain.org/community/emmahodcroft/tb/enterovirus/d68/vp1-300-5Dec2019
+emmahodcroft/tb	auspice/tb_enterovirus_d68_vp1-300-5Dec2019_tree.json	tree	true	https://nextstrain.org/community/emmahodcroft/tb/enterovirus/d68/vp1-300-5Dec2019
 emmahodcroft/tb	auspice/tb_enterovirus_d68_vp2_meta.json	meta	true	https://nextstrain.org/community/emmahodcroft/tb/enterovirus/d68/vp2
 emmahodcroft/tb	auspice/tb_enterovirus_d68_vp2_tree.json	tree	true	https://nextstrain.org/community/emmahodcroft/tb/enterovirus/d68/vp2
 emmahodcroft/tb	auspice/tb_enterovirus_d68_vp3_meta.json	meta	true	https://nextstrain.org/community/emmahodcroft/tb/enterovirus/d68/vp3
@@ -199,6 +315,8 @@ emmahodcroft/tb	auspice/tb_enterovirusd68-vp1_aug19_meta.json	meta	true	https://
 emmahodcroft/tb	auspice/tb_enterovirusd68-vp1_aug19_tree.json	tree	true	https://nextstrain.org/community/emmahodcroft/tb/enterovirusd68-vp1/aug19
 emmahodcroft/tb	auspice/tb_enterovirusd68-vp1_jul19_meta.json	meta	true	https://nextstrain.org/community/emmahodcroft/tb/enterovirusd68-vp1/jul19
 emmahodcroft/tb	auspice/tb_enterovirusd68-vp1_jul19_tree.json	tree	true	https://nextstrain.org/community/emmahodcroft/tb/enterovirusd68-vp1/jul19
+emmahodcroft/tb	auspice/tb_enterovirusd68-vp1_sep19_meta.json	meta	true	https://nextstrain.org/community/emmahodcroft/tb/enterovirusd68-vp1/sep19
+emmahodcroft/tb	auspice/tb_enterovirusd68-vp1_sep19_tree.json	tree	true	https://nextstrain.org/community/emmahodcroft/tb/enterovirusd68-vp1/sep19
 emmahodcroft/tb	auspice/tb_enterovirusd68-vp1-2018_meta.json	meta	true	https://nextstrain.org/community/emmahodcroft/tb/enterovirusd68-vp1-2018
 emmahodcroft/tb	auspice/tb_enterovirusd68-vp1-2018_tree.json	tree	true	https://nextstrain.org/community/emmahodcroft/tb/enterovirusd68-vp1-2018
 emmahodcroft/tb	auspice/tb_enterovirusd68-vp1-AFM_meta.json	meta	true	https://nextstrain.org/community/emmahodcroft/tb/enterovirusd68-vp1-AFM
@@ -209,6 +327,8 @@ emmahodcroft/tb	auspice/tb_enterovirusd68vp1a_meta.json	meta	true	https://nextst
 emmahodcroft/tb	auspice/tb_enterovirusd68vp1a_tree.json	tree	true	https://nextstrain.org/community/emmahodcroft/tb/enterovirusd68vp1a
 emmahodcroft/tb	auspice/tb_enterovirusd68vp1f_meta.json	meta	true	https://nextstrain.org/community/emmahodcroft/tb/enterovirusd68vp1f
 emmahodcroft/tb	auspice/tb_enterovirusd68vp1f_tree.json	tree	true	https://nextstrain.org/community/emmahodcroft/tb/enterovirusd68vp1f
+emmahodcroft/tb	auspice/tb_evd68_vp1Nov19_meta.json	meta	true	https://nextstrain.org/community/emmahodcroft/tb/evd68/vp1Nov19
+emmahodcroft/tb	auspice/tb_evd68_vp1Nov19_tree.json	tree	true	https://nextstrain.org/community/emmahodcroft/tb/evd68/vp1Nov19
 emmahodcroft/tb	auspice/tb_GardyAll_meta.json	meta	true	https://nextstrain.org/community/emmahodcroft/tb/GardyAll
 emmahodcroft/tb	auspice/tb_GardyAll_tree.json	tree	true	https://nextstrain.org/community/emmahodcroft/tb/GardyAll
 emmahodcroft/tb	auspice/tb_GardyL1_meta.json	meta	true	https://nextstrain.org/community/emmahodcroft/tb/GardyL1
@@ -233,44 +353,182 @@ emmahodcroft/tb	auspice/tb_l430_meta.json	meta	true	https://nextstrain.org/commu
 emmahodcroft/tb	auspice/tb_l430_tree.json	tree	true	https://nextstrain.org/community/emmahodcroft/tb/l430
 emmahodcroft/tb	auspice/tb_lee_meta.json	meta	true	https://nextstrain.org/community/emmahodcroft/tb/lee
 emmahodcroft/tb	auspice/tb_lee_tree.json	tree	true	https://nextstrain.org/community/emmahodcroft/tb/lee
+emmahodcroft/tb	auspice/tb_ncov_yale-swiss.json		true	https://nextstrain.org/community/emmahodcroft/tb/ncov/yale-swiss
+emmahodcroft/tb	auspice/tb_ncov_yale.json		true	https://nextstrain.org/community/emmahodcroft/tb/ncov/yale
 emmahodcroft/tb	auspice/tb_pseudo_meta.json	meta	true	https://nextstrain.org/community/emmahodcroft/tb/pseudo
 emmahodcroft/tb	auspice/tb_pseudo_tree.json	tree	true	https://nextstrain.org/community/emmahodcroft/tb/pseudo
 emmahodcroft/tb	auspice/tb_pv_nigeria_meta.json	meta	true	https://nextstrain.org/community/emmahodcroft/tb/pv/nigeria
 emmahodcroft/tb	auspice/tb_pv_nigeria_tree.json	tree	true	https://nextstrain.org/community/emmahodcroft/tb/pv/nigeria
 emmahodcroft/tbtmr2	auspice/tbtmr2_a_meta.json	meta	true	https://nextstrain.org/community/emmahodcroft/tbtmr2/a
+emmahodcroft/tbtmr2	auspice/tbtmr2_a_meta.json	meta	true	https://nextstrain.org/community/emmahodcroft/tbtmr2/a
+emmahodcroft/tbtmr2	auspice/tbtmr2_a_tree.json	tree	true	https://nextstrain.org/community/emmahodcroft/tbtmr2/a
 emmahodcroft/tbtmr2	auspice/tbtmr2_a_tree.json	tree	true	https://nextstrain.org/community/emmahodcroft/tbtmr2/a
 emmahodcroft/tbtmr2	auspice/tbtmr2_meta.json	meta	true	https://nextstrain.org/community/emmahodcroft/tbtmr2
+emmahodcroft/tbtmr2	auspice/tbtmr2_meta.json	meta	true	https://nextstrain.org/community/emmahodcroft/tbtmr2
 emmahodcroft/tbtmr2	auspice/tbtmr2_tree.json	tree	true	https://nextstrain.org/community/emmahodcroft/tbtmr2
+enterovirus-phylo/echo30-2019	auspice/echo30-2019_3D_meta.json	meta	true	https://nextstrain.org/community/enterovirus-phylo/echo30-2019/3D
+enterovirus-phylo/echo30-2019	auspice/echo30-2019_3D_tree.json	tree	true	https://nextstrain.org/community/enterovirus-phylo/echo30-2019/3D
+enterovirus-phylo/echo30-2019	auspice/echo30-2019_vp1_meta.json	meta	true	https://nextstrain.org/community/enterovirus-phylo/echo30-2019/vp1
+enterovirus-phylo/echo30-2019	auspice/echo30-2019_vp1_tree.json	tree	true	https://nextstrain.org/community/enterovirus-phylo/echo30-2019/vp1
+enterovirus-phylo/evd68-2019	auspice/evd68-2019_vp1-300_meta.json	meta	true	https://nextstrain.org/community/enterovirus-phylo/evd68-2019/vp1-300
+enterovirus-phylo/evd68-2019	auspice/evd68-2019_vp1-300_tree.json	tree	true	https://nextstrain.org/community/enterovirus-phylo/evd68-2019/vp1-300
+enterovirus-phylo/evd68-2019	auspice/evd68-2019_vp4vp2_tree.json	tree	true	https://nextstrain.org/community/enterovirus-phylo/evd68-2019/vp4vp2
+evogytis/w6	auspice/w6_gp64_meta.json	meta	true	https://nextstrain.org/community/evogytis/w6/gp64
+evogytis/w6	auspice/w6_gp64_tree.json	tree	true	https://nextstrain.org/community/evogytis/w6/gp64
+evogytis/w6	auspice/w6_hypothetical_meta.json	meta	true	https://nextstrain.org/community/evogytis/w6/hypothetical
+evogytis/w6	auspice/w6_hypothetical_tree.json	tree	true	https://nextstrain.org/community/evogytis/w6/hypothetical
+evogytis/w6	auspice/w6_hypothetical2_meta.json	meta	true	https://nextstrain.org/community/evogytis/w6/hypothetical2
+evogytis/w6	auspice/w6_hypothetical2_tree.json	tree	true	https://nextstrain.org/community/evogytis/w6/hypothetical2
+evogytis/w6	auspice/w6_hypothetical3_meta.json	meta	true	https://nextstrain.org/community/evogytis/w6/hypothetical3
+evogytis/w6	auspice/w6_hypothetical3_tree.json	tree	true	https://nextstrain.org/community/evogytis/w6/hypothetical3
+evogytis/w6	auspice/w6_NP_tree.json	tree	true	https://nextstrain.org/community/evogytis/w6/NP
+evogytis/w6	auspice/w6_PA_meta.json	meta	true	https://nextstrain.org/community/evogytis/w6/PA
+evogytis/w6	auspice/w6_PA_tree.json	tree	true	https://nextstrain.org/community/evogytis/w6/PA
+evogytis/w6	auspice/w6_PB1_meta.json	meta	true	https://nextstrain.org/community/evogytis/w6/PB1
+evogytis/w6	auspice/w6_PB1_tree.json	tree	true	https://nextstrain.org/community/evogytis/w6/PB1
+evogytis/w6	auspice/w6_PB2_meta.json	meta	true	https://nextstrain.org/community/evogytis/w6/PB2
+evogytis/w6	auspice/w6_PB2_tree.json	tree	true	https://nextstrain.org/community/evogytis/w6/PB2
+FabyCruzPR/DENV1_PR	auspice/DENV1_PR_meta.json	meta	true	https://nextstrain.org/community/FabyCruzPR/DENV1_PR
+FabyCruzPR/DENV1_PR	auspice/DENV1_PR_tree.json	tree	true	https://nextstrain.org/community/FabyCruzPR/DENV1_PR
+fisabio-ngs/ncov19-Spain	auspice/ncov19-Spain.json		true	https://nextstrain.org/community/fisabio-ngs/ncov19-Spain
 gboyle2/spatial_coupling	auspice/zika_meta.json	meta	false	
 gboyle2/spatial_coupling	auspice/zika_tree.json	tree	false	
+Genomicscoremrcg/COVID-19_Gambia	auspice/COVID-19_Gambia_meta.json	meta	true	https://nextstrain.org/community/Genomicscoremrcg/COVID-19_Gambia
+giraola/covid19-uruguay	auspice/covid19-uruguay_final.json		true	https://nextstrain.org/community/giraola/covid19-uruguay/final
+grubaughlab/CT-SARS-CoV-2	auspice/CT-SARS-CoV-2_current.json		true	https://nextstrain.org/community/grubaughlab/CT-SARS-CoV-2/current
+grubaughlab/CT-SARS-CoV-2	auspice/CT-SARS-CoV-2_paper1.json		true	https://nextstrain.org/community/grubaughlab/CT-SARS-CoV-2/paper1
+grubaughlab/CT-SARS-CoV-2	auspice/CT-SARS-CoV-2_paper2.json		true	https://nextstrain.org/community/grubaughlab/CT-SARS-CoV-2/paper2
+grubaughlab/CT-SARS-CoV-2	auspice/CT-SARS-CoV-2_paper3.json		true	https://nextstrain.org/community/grubaughlab/CT-SARS-CoV-2/paper3
+grubaughlab/CT-SARS-CoV-2	auspice/CT-SARS-CoV-2_update1.json		true	https://nextstrain.org/community/grubaughlab/CT-SARS-CoV-2/update1
+grubaughlab/CT-SARS-CoV-2	auspice/CT-SARS-CoV-2_update2.json		true	https://nextstrain.org/community/grubaughlab/CT-SARS-CoV-2/update2
+grubaughlab/CT-SARS-CoV-2	auspice/CT-SARS-CoV-2_update3.json		true	https://nextstrain.org/community/grubaughlab/CT-SARS-CoV-2/update3
+grubaughlab/CT-SARS-CoV-2	auspice/CT-SARS-CoV-2_update4.json		true	https://nextstrain.org/community/grubaughlab/CT-SARS-CoV-2/update4
+grubaughlab/CT-SARS-CoV-2	auspice/CT-SARS-CoV-2_update5.json		true	https://nextstrain.org/community/grubaughlab/CT-SARS-CoV-2/update5
+grubaughlab/CT-SARS-CoV-2	auspice/CT-SARS-CoV-2_update6.json		true	https://nextstrain.org/community/grubaughlab/CT-SARS-CoV-2/update6
+grubaughlab/CT-SARS-CoV-2	auspice/CT-SARS-CoV-2_update7.json		true	https://nextstrain.org/community/grubaughlab/CT-SARS-CoV-2/update7
+grubaughlab/CT-SARS-CoV-2	auspice/CT-SARS-CoV-2_update8.json		true	https://nextstrain.org/community/grubaughlab/CT-SARS-CoV-2/update8
+grubaughlab/CT-SARS-CoV-2	auspice/CT-SARS-CoV-2_update9.json		true	https://nextstrain.org/community/grubaughlab/CT-SARS-CoV-2/update9
+grubaughlab/DENV-genomics	auspice/DENV-genomics_DENV1-Brazil_meta.json	meta	true	https://nextstrain.org/community/grubaughlab/DENV-genomics/DENV1-Brazil
+grubaughlab/DENV-genomics	auspice/DENV-genomics_DENV1-Brazil_tree.json	tree	true	https://nextstrain.org/community/grubaughlab/DENV-genomics/DENV1-Brazil
+grubaughlab/powassan-genomics	auspice/powassan-genomics_All_meta.json	meta	true	https://nextstrain.org/community/grubaughlab/powassan-genomics/All
+grubaughlab/powassan-genomics	auspice/powassan-genomics_All_tree.json	tree	true	https://nextstrain.org/community/grubaughlab/powassan-genomics/All
+grubaughlab/powassan-genomics	auspice/powassan-genomics_NE_meta.json	meta	true	https://nextstrain.org/community/grubaughlab/powassan-genomics/NE
+grubaughlab/powassan-genomics	auspice/powassan-genomics_NE_tree.json	tree	true	https://nextstrain.org/community/grubaughlab/powassan-genomics/NE
+grubaughlab/ZIKV-PR	auspice/ZIKV-PR_458.json		true	https://nextstrain.org/community/grubaughlab/ZIKV-PR/458
+grubaughlab/ZIKV-PR	auspice/ZIKV-PR_meta.json	meta	true	https://nextstrain.org/community/grubaughlab/ZIKV-PR
+grubaughlab/ZIKV-PR	auspice/ZIKV-PR_tree.json	tree	true	https://nextstrain.org/community/grubaughlab/ZIKV-PR
+gwendolin/gs541-phylogeography	auspice/ncov_global_tip-frequencies.json	tip-frequencies	false	
 idolawoye/tb	auspice/tb_1_meta.json	meta	true	https://nextstrain.org/community/idolawoye/tb/1
 idolawoye/tb	auspice/tb_1_tree.json	tree	true	https://nextstrain.org/community/idolawoye/tb/1
 idolawoye/tb	auspice/tb_2_meta.json	meta	true	https://nextstrain.org/community/idolawoye/tb/2
 idolawoye/tb	auspice/tb_2_tree.json	tree	true	https://nextstrain.org/community/idolawoye/tb/2
+INMIbioinfo/HAV_VP1-2A	auspice/HAV_VP1-2A_meta.json	meta	true	https://nextstrain.org/community/INMIbioinfo/HAV_VP1-2A
+INMIbioinfo/HAV_VP1-2A	auspice/HAV_VP1-2A_tree.json	tree	true	https://nextstrain.org/community/INMIbioinfo/HAV_VP1-2A
 inrb-drc/ebola-nord-kivu	auspice/ebola-nord-kivu_meta.json	meta	true	https://nextstrain.org/community/inrb-drc/ebola-nord-kivu
 inrb-drc/ebola-nord-kivu	auspice/ebola-nord-kivu_tree.json	tree	true	https://nextstrain.org/community/inrb-drc/ebola-nord-kivu
 jameshadfield/basel-flu	auspice/basel-flu_1_meta.json	meta	true	https://nextstrain.org/community/jameshadfield/basel-flu/1
 jameshadfield/basel-flu	auspice/basel-flu_1_tree.json	tree	true	https://nextstrain.org/community/jameshadfield/basel-flu/1
+jameshadfield/basel-flu	auspice/basel-flu_10_meta.json	meta	true	https://nextstrain.org/community/jameshadfield/basel-flu/10
+jameshadfield/basel-flu	auspice/basel-flu_10_tree.json	tree	true	https://nextstrain.org/community/jameshadfield/basel-flu/10
+jameshadfield/basel-flu	auspice/basel-flu_2_meta.json	meta	true	https://nextstrain.org/community/jameshadfield/basel-flu/2
+jameshadfield/basel-flu	auspice/basel-flu_2_tree.json	tree	true	https://nextstrain.org/community/jameshadfield/basel-flu/2
+jameshadfield/basel-flu	auspice/basel-flu_3_meta.json	meta	true	https://nextstrain.org/community/jameshadfield/basel-flu/3
+jameshadfield/basel-flu	auspice/basel-flu_3_tree.json	tree	true	https://nextstrain.org/community/jameshadfield/basel-flu/3
+jameshadfield/basel-flu	auspice/basel-flu_4_meta.json	meta	true	https://nextstrain.org/community/jameshadfield/basel-flu/4
+jameshadfield/basel-flu	auspice/basel-flu_4_tree.json	tree	true	https://nextstrain.org/community/jameshadfield/basel-flu/4
+jameshadfield/basel-flu	auspice/basel-flu_5_meta.json	meta	true	https://nextstrain.org/community/jameshadfield/basel-flu/5
+jameshadfield/basel-flu	auspice/basel-flu_5_tree.json	tree	true	https://nextstrain.org/community/jameshadfield/basel-flu/5
+jameshadfield/basel-flu	auspice/basel-flu_6_meta.json	meta	true	https://nextstrain.org/community/jameshadfield/basel-flu/6
+jameshadfield/basel-flu	auspice/basel-flu_6_tree.json	tree	true	https://nextstrain.org/community/jameshadfield/basel-flu/6
+jameshadfield/basel-flu	auspice/basel-flu_7_meta.json	meta	true	https://nextstrain.org/community/jameshadfield/basel-flu/7
+jameshadfield/basel-flu	auspice/basel-flu_7_tree.json	tree	true	https://nextstrain.org/community/jameshadfield/basel-flu/7
+jameshadfield/basel-flu	auspice/basel-flu_8_meta.json	meta	true	https://nextstrain.org/community/jameshadfield/basel-flu/8
+jameshadfield/basel-flu	auspice/basel-flu_8_tree.json	tree	true	https://nextstrain.org/community/jameshadfield/basel-flu/8
+jameshadfield/basel-flu	auspice/basel-flu_9_meta.json	meta	true	https://nextstrain.org/community/jameshadfield/basel-flu/9
+jameshadfield/basel-flu	auspice/basel-flu_9_tree.json	tree	true	https://nextstrain.org/community/jameshadfield/basel-flu/9
 jameshadfield/scratch	auspice/scratch_ct_meta.json	meta	true	https://nextstrain.org/community/jameshadfield/scratch/ct
 jameshadfield/scratch	auspice/scratch_ct_tree.json	tree	true	https://nextstrain.org/community/jameshadfield/scratch/ct
+jameshadfield/scratch	auspice/scratch_ncov-demo.json		true	https://nextstrain.org/community/jameshadfield/scratch/ncov-demo
 jameshadfield/veme2019	auspice/veme2019_meta.json	meta	true	https://nextstrain.org/community/jameshadfield/veme2019
 jameshadfield/veme2019	auspice/veme2019_tree.json	tree	true	https://nextstrain.org/community/jameshadfield/veme2019
+jgenger/SARS-CoV-2-drafts	auspice/SARS-CoV-2-drafts_austriansamples.json		true	https://nextstrain.org/community/jgenger/SARS-CoV-2-drafts/austriansamples
+jgenger/SARS-CoV-2-drafts	auspice/SARS-CoV-2-drafts_icelandandaustria.json		true	https://nextstrain.org/community/jgenger/SARS-CoV-2-drafts/icelandandaustria
+jgenger/SARS-CoV-2-drafts	auspice/SARS-CoV-2-drafts_subsampled_5000.json		true	https://nextstrain.org/community/jgenger/SARS-CoV-2-drafts/subsampled/5000
+jgenger/SARS-CoV-2-project	auspice/SARS-CoV-2-project_austriaexposurehistory.json		true	https://nextstrain.org/community/jgenger/SARS-CoV-2-project/austriaexposurehistory
+jgenger/SARS-CoV-2-project	auspice/SARS-CoV-2-project_BavPatAustria.json		true	https://nextstrain.org/community/jgenger/SARS-CoV-2-project/BavPatAustria
+jgenger/SARS-CoV-2-project	auspice/SARS-CoV-2-project_EarlyEuropev19.json		true	https://nextstrain.org/community/jgenger/SARS-CoV-2-project/EarlyEuropev19
+jgenger/SARS-CoV-2-project	auspice/SARS-CoV-2-project_EarlyEuropev19NAclades.json		true	https://nextstrain.org/community/jgenger/SARS-CoV-2-project/EarlyEuropev19NAclades
+jgenger/SARS-CoV-2-project	auspice/SARS-CoV-2-project_Newclades.json		true	https://nextstrain.org/community/jgenger/SARS-CoV-2-project/Newclades
+jgenger/SARS-CoV-2-project	auspice/SARS-CoV-2-project_NextstrainAustriav19.json		true	https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav19
+jgenger/SARS-CoV-2-project	auspice/SARS-CoV-2-project_NextstrainAustriav19newclades.json		true	https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav19newclades
+jgenger/SARS-CoV-2-project	auspice/SARS-CoV-2-project_NextstrainAustriav20.json		true	https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20
+jgenger/SARS-CoV-2-project	auspice/SARS-CoV-2-project_NextstrainAustriav21.json		true	https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav21
+jgenger/SARS-CoV-2-project	auspice/SARS-CoV-2-project_OnlyAustrian_010620_newcol.json		true	https://nextstrain.org/community/jgenger/SARS-CoV-2-project/OnlyAustrian/010620/newcol
+jgenger/SARS-CoV-2-project	auspice/SARS-CoV-2-project_OnlyAustrian_010620.json		true	https://nextstrain.org/community/jgenger/SARS-CoV-2-project/OnlyAustrian/010620
+jgenger/SARS-CoV-2-project	auspice/SARS-CoV-2-project_OnlyAustrian.json		true	https://nextstrain.org/community/jgenger/SARS-CoV-2-project/OnlyAustrian
+jgenger/SARS-CoV-2-project	auspice/SARS-CoV-2-project_OnlyAustrian2.json		true	https://nextstrain.org/community/jgenger/SARS-CoV-2-project/OnlyAustrian2
+jgenger/SARS-CoV-2-project	auspice/SARS-CoV-2-project_OnlyAustrianv19.json		true	https://nextstrain.org/community/jgenger/SARS-CoV-2-project/OnlyAustrianv19
+jgenger/SARS-CoV-2-project	auspice/SARS-CoV-2-project_subsampled_5000.json		true	https://nextstrain.org/community/jgenger/SARS-CoV-2-project/subsampled/5000
+jgenger/SARS-CoV-2-project	auspice/SARS-CoV-2-project_subsampled_8000.json		true	https://nextstrain.org/community/jgenger/SARS-CoV-2-project/subsampled/8000
+jgenger/SARS-CoV-2-project	auspice/SARS-CoV-2-project_v19.json		true	https://nextstrain.org/community/jgenger/SARS-CoV-2-project/v19
+jgenger/SARS-CoV-2-project	auspice/SARS-CoV-2-project_v19IceAustria.json		true	https://nextstrain.org/community/jgenger/SARS-CoV-2-project/v19IceAustria
+JianiC/betaCoV	auspice/betaCoV_S.json		true	https://nextstrain.org/community/JianiC/betaCoV/S
+JianiC/betaCoV	auspice/betaCoV_WGS.json		true	https://nextstrain.org/community/JianiC/betaCoV/WGS
+JianiC/rsv	auspice/rsv_A_F_meta.json	meta	true	https://nextstrain.org/community/JianiC/rsv/A/F
 JianiC/rsv	auspice/rsv_A_F_meta.json	meta	true	https://nextstrain.org/community/JianiC/rsv/A/F
 JianiC/rsv	auspice/rsv_A_F_tree.json	tree	true	https://nextstrain.org/community/JianiC/rsv/A/F
+JianiC/rsv	auspice/rsv_A_F_tree.json	tree	true	https://nextstrain.org/community/JianiC/rsv/A/F
+JianiC/rsv	auspice/rsv_A_G_meta.json	meta	true	https://nextstrain.org/community/JianiC/rsv/A/G
 JianiC/rsv	auspice/rsv_A_G_meta.json	meta	true	https://nextstrain.org/community/JianiC/rsv/A/G
 JianiC/rsv	auspice/rsv_A_G_tree.json	tree	true	https://nextstrain.org/community/JianiC/rsv/A/G
+JianiC/rsv	auspice/rsv_A_G_tree.json	tree	true	https://nextstrain.org/community/JianiC/rsv/A/G
 JianiC/rsv	auspice/rsv_A_WGS_meta.json	meta	true	https://nextstrain.org/community/JianiC/rsv/A/WGS
+JianiC/rsv	auspice/rsv_A_WGS_meta.json	meta	true	https://nextstrain.org/community/JianiC/rsv/A/WGS
+JianiC/rsv	auspice/rsv_A_WGS_tree.json	tree	true	https://nextstrain.org/community/JianiC/rsv/A/WGS
 JianiC/rsv	auspice/rsv_A_WGS_tree.json	tree	true	https://nextstrain.org/community/JianiC/rsv/A/WGS
 JianiC/rsv	auspice/rsv_B_F_meta.json	meta	true	https://nextstrain.org/community/JianiC/rsv/B/F
 JianiC/rsv	auspice/rsv_B_F_tree.json	tree	true	https://nextstrain.org/community/JianiC/rsv/B/F
 JianiC/rsv	auspice/rsv_B_G_meta.json	meta	true	https://nextstrain.org/community/JianiC/rsv/B/G
+JianiC/rsv	auspice/rsv_B_G_meta.json	meta	true	https://nextstrain.org/community/JianiC/rsv/B/G
+JianiC/rsv	auspice/rsv_B_G_tree.json	tree	true	https://nextstrain.org/community/JianiC/rsv/B/G
 JianiC/rsv	auspice/rsv_B_G_tree.json	tree	true	https://nextstrain.org/community/JianiC/rsv/B/G
 JianiC/rsv	auspice/rsv_B_WGS_meta.json	meta	true	https://nextstrain.org/community/JianiC/rsv/B/WGS
 JianiC/rsv	auspice/rsv_B_WGS_tree.json	tree	true	https://nextstrain.org/community/JianiC/rsv/B/WGS
+JianiC/rsv-genotype	auspice/rsv-genotype_A_G.json		true	https://nextstrain.org/community/JianiC/rsv-genotype/A/G
+JianiC/rsv-genotype	auspice/rsv-genotype_A_WGS.json		true	https://nextstrain.org/community/JianiC/rsv-genotype/A/WGS
+jiyekwon/FluPandemicDR	auspice/FluPandemicDR_meta.json	meta	true	https://nextstrain.org/community/jiyekwon/FluPandemicDR
+jiyekwon/FluPandemicDR	auspice/FluPandemicDR_tree.json	tree	true	https://nextstrain.org/community/jiyekwon/FluPandemicDR
+kaust-pathogens/ncov-ksa	auspice/ncov-ksa.json		true	https://nextstrain.org/community/kaust-pathogens/ncov-ksa
+kiahalespractice/gs541-phylogeography	auspice/gs541-phylogeography.json		true	https://nextstrain.org/community/kiahalespractice/gs541-phylogeography
+ktmeaton/plague-phylogeography	auspice/cui2013Local.json		false	
+ktmeaton/plague-phylogeography	auspice/morelli2010Local.json		false	
+ktmeaton/plague-phylogeography	auspice/plague-phylogeography_cui2013Remote.json		true	https://nextstrain.org/community/ktmeaton/plague-phylogeography/cui2013Remote
+ktmeaton/plague-phylogeography	auspice/plague-phylogeography_DemoMapRemote.json		true	https://nextstrain.org/community/ktmeaton/plague-phylogeography/DemoMapRemote
+ktmeaton/plague-phylogeography	auspice/plague-phylogeography_morelli2010Remote.json		true	https://nextstrain.org/community/ktmeaton/plague-phylogeography/morelli2010Remote
+ktmeaton/plague-phylogeography	auspice/plague-phylogeography_plague150Remote.json		true	https://nextstrain.org/community/ktmeaton/plague-phylogeography/plague150Remote
+ktmeaton/plague-phylogeography	auspice/plague150Local.json		false	
+laurakasper/EbolaGenomics	auspice/EbolaGenomics_meta.json	meta	true	https://nextstrain.org/community/laurakasper/EbolaGenomics
+laurakasper/EbolaGenomics	auspice/EbolaGenomics_tree.json	tree	true	https://nextstrain.org/community/laurakasper/EbolaGenomics
+lorenzefe/ncov_argentina	auspice/ncov_argentina_tip-frequencies.json	tip-frequencies	true	https://nextstrain.org/community/lorenzefe/ncov_argentina
+lorenzefe/ncov_argentina	auspice/ncov_argentina.json		true	https://nextstrain.org/community/lorenzefe/ncov_argentina
+lorenzefe/ncov_argentina	auspice/ncov_argentina2.json		true	https://nextstrain.org/community/lorenzefe/ncov_argentina2
+lorenzefe/ncov_argentina	auspice/ncov_global_tip-frequencies2.json		false	
+lorenzefe/ncov_argentina	auspice/ncov_global_tip-frequencies2.json		false	
+lorenzefe/ncov_argentina2	auspice/ncov_argentina2.json		true	https://nextstrain.org/community/lorenzefe/ncov_argentina2
+lorenzefe/ncov_argentina3	auspice/ncov_argentina3.json		true	https://nextstrain.org/community/lorenzefe/ncov_argentina3
 lulued/RSVLBI	auspice/RSVLBI_RSV-A_meta.json	meta	true	https://nextstrain.org/community/lulued/RSVLBI/RSV-A
 lulued/RSVLBI	auspice/RSVLBI_RSV-A_tree.json	tree	true	https://nextstrain.org/community/lulued/RSVLBI/RSV-A
 lulued/RSVLBI	auspice/RSVLBI_RSV-B_meta.json	meta	true	https://nextstrain.org/community/lulued/RSVLBI/RSV-B
 lulued/RSVLBI	auspice/RSVLBI_RSV-B_tree.json	tree	true	https://nextstrain.org/community/lulued/RSVLBI/RSV-B
+MaddieBender/EEEV-USA	auspice/EEEV-USA_meta.json	meta	true	https://nextstrain.org/community/MaddieBender/EEEV-USA
+MaddieBender/EEEV-USA	auspice/EEEV-USA_tree.json	tree	true	https://nextstrain.org/community/MaddieBender/EEEV-USA
+maddyduran/gs541-phylogeography	auspice/gs541-phylogeography.json		true	https://nextstrain.org/community/maddyduran/gs541-phylogeography
+magdalenarussell/gs541-phylogeography	auspice/gs541-phylogeography.json		true	https://nextstrain.org/community/magdalenarussell/gs541-phylogeography
+magdalenarussell/gs541-phylogeography	auspice/ncov_global_tip-frequencies.json	tip-frequencies	false	
+mattbencz/EVD68_USA	auspice/EVD68_USA_meta.json	meta	true	https://nextstrain.org/community/mattbencz/EVD68_USA
+mattbencz/EVD68_USA	auspice/EVD68_USA_tree.json	tree	true	https://nextstrain.org/community/mattbencz/EVD68_USA
+mcorrea44/CHIKV-FL	auspice/CHIKV-FL_meta.json	meta	true	https://nextstrain.org/community/mcorrea44/CHIKV-FL
+mcorrea44/CHIKV-FL	auspice/CHIKV-FL_tree.json	tree	true	https://nextstrain.org/community/mcorrea44/CHIKV-FL
 neherlab/2019-krisp-nextstrain-workshop	auspice/2019-krisp-nextstrain-workshop_tbWalker_meta.json	meta	true	https://nextstrain.org/community/neherlab/2019-krisp-nextstrain-workshop/tbWalker
 neherlab/2019-krisp-nextstrain-workshop	auspice/2019-krisp-nextstrain-workshop_tbWalker_tree.json	tree	true	https://nextstrain.org/community/neherlab/2019-krisp-nextstrain-workshop/tbWalker
 neherlab/2019-krisp-nextstrain-workshop	auspice/emma_tbWalker_meta.json	meta	false	
@@ -299,31 +557,122 @@ neherlab/krisp	auspice/krisp_YOURNAME_YFV_meta.json	meta	true	https://nextstrain
 neherlab/krisp	auspice/krisp_YOURNAME_YFV_tree.json	tree	true	https://nextstrain.org/community/neherlab/krisp/YOURNAME/YFV
 neherlab/krisp	auspice/krisp_zika-tutorial_meta.json	meta	true	https://nextstrain.org/community/neherlab/krisp/zika-tutorial
 neherlab/krisp	auspice/krisp_zika-tutorial_tree.json	tree	true	https://nextstrain.org/community/neherlab/krisp/zika-tutorial
+nigeb-iran/E	auspice/E.json		true	https://nextstrain.org/community/nigeb-iran/E
+nigeb-iran/nucleocapsid	auspice/ncov.json		false	
+nigeb-iran/nucleocapsid	auspice/ncov2.json		false	
+nigeb-iran/nucleocapsid	auspice/ncov3.json		false	
+nigeb-iran/nucleocapsid	auspice/ncov4.json		false	
+nigeb-iran/nucleocapsid	auspice/ncov5.json		false	
+nigeb-iran/nucleocapsid	auspice/ncov6.json		false	
+nigeb-iran/nucleocapsid	auspice/ncov7.json		false	
+nigeb-iran/nucleocapsid	auspice/ncov8.json		false	
+nigeb-iran/nucleocapsid	auspice/ncov9.json		false	
+nigeb-iran/nucleocapsid	auspice/nucleocapsid.json		true	https://nextstrain.org/community/nigeb-iran/nucleocapsid
+nigeb-iran/proteinase	auspice/proteinase.json		true	https://nextstrain.org/community/nigeb-iran/proteinase
+nirvanakimberly/EbolaDRC2013	auspice/EbolaDRC2013_meta.json	meta	true	https://nextstrain.org/community/nirvanakimberly/EbolaDRC2013
+nirvanakimberly/EbolaDRC2013	auspice/EbolaDRC2013_tree.json	tree	true	https://nextstrain.org/community/nirvanakimberly/EbolaDRC2013
 nnoll/plasmids	auspice/plasmids_meta.json	meta	true	https://nextstrain.org/community/nnoll/plasmids
 nnoll/plasmids	auspice/plasmids_tree.json	tree	true	https://nextstrain.org/community/nnoll/plasmids
+olinus-genomicepi/DENV2OutbreaksSAm	auspice/DENV2OutbreaksSAm_meta.json	meta	true	https://nextstrain.org/community/olinus-genomicepi/DENV2OutbreaksSAm
+olinus-genomicepi/DENV2OutbreaksSAm	auspice/DENV2OutbreaksSAm_tree.json	tree	true	https://nextstrain.org/community/olinus-genomicepi/DENV2OutbreaksSAm
+oscarperalesmartinez/Zika_Mexico	auspice/Zika_Mexico_meta.json	meta	true	https://nextstrain.org/community/oscarperalesmartinez/Zika_Mexico
+oscarperalesmartinez/Zika_Mexico	auspice/Zika_Mexico_tree.json	tree	true	https://nextstrain.org/community/oscarperalesmartinez/Zika_Mexico
+pathosense/PRRSV	auspice/PRRSV_ORF5.json		true	https://nextstrain.org/community/pathosense/PRRSV/ORF5
+pathosense/PRRSV	auspice/PRRSV_WG.json		true	https://nextstrain.org/community/pathosense/PRRSV/WG
 pauloluniyi/lassa	auspice/lassa_l_meta.json	meta	true	https://nextstrain.org/community/pauloluniyi/lassa/l
 pauloluniyi/lassa	auspice/lassa_l_tree.json	tree	true	https://nextstrain.org/community/pauloluniyi/lassa/l
 pauloluniyi/lassa	auspice/lassa_s_meta.json	meta	true	https://nextstrain.org/community/pauloluniyi/lassa/s
 pauloluniyi/lassa	auspice/lassa_s_tree.json	tree	true	https://nextstrain.org/community/pauloluniyi/lassa/s
-pestdisplace/CMD_Africa	auspice/CMD_Africa_meta.json	meta	true	https://nextstrain.org/community/pestdisplace/CMD_Africa
-pestdisplace/CMD_Africa	auspice/CMD_Africa_tree.json	tree	true	https://nextstrain.org/community/pestdisplace/CMD_Africa
 pestdisplace/CMD_UG	auspice/CMD_UG_meta.json	meta	true	https://nextstrain.org/community/pestdisplace/CMD_UG
 pestdisplace/CMD_UG	auspice/CMD_UG_tree.json	tree	true	https://nextstrain.org/community/pestdisplace/CMD_UG
 pestdisplace/CMDAFRICA	auspice/CMDAFRICA_meta.json	meta	true	https://nextstrain.org/community/pestdisplace/CMDAFRICA
 pestdisplace/CMDAFRICA	auspice/CMDAFRICA_tree.json	tree	true	https://nextstrain.org/community/pestdisplace/CMDAFRICA
 pestdisplace/CMDASIA	auspice/CMDASIA_meta.json	meta	true	https://nextstrain.org/community/pestdisplace/CMDASIA
 pestdisplace/CMDASIA	auspice/CMDASIA_tree.json	tree	true	https://nextstrain.org/community/pestdisplace/CMDASIA
-pestdisplace/cmv	auspice/cmv_meta.json	meta	true	https://nextstrain.org/community/pestdisplace/cmv
-pestdisplace/cmv	auspice/cmv_tree.json	tree	true	https://nextstrain.org/community/pestdisplace/cmv
+pestdisplace/CMDASIAtest1	auspice/CMDASIAtest1_meta.json	meta	true	https://nextstrain.org/community/pestdisplace/CMDASIAtest1
+pestdisplace/CMDASIAtest1	auspice/CMDASIAtest1_meta.json	meta	true	https://nextstrain.org/community/pestdisplace/CMDASIAtest1
+pestdisplace/CMDASIAtest1	auspice/CMDASIAtest1_tree.json	tree	true	https://nextstrain.org/community/pestdisplace/CMDASIAtest1
+pestdisplace/CMDASIAtest1	auspice/CMDASIAtest1_tree.json	tree	true	https://nextstrain.org/community/pestdisplace/CMDASIAtest1
 pestdisplace/PMTV	auspice/pmtv_meta.json	meta	true	https://nextstrain.org/community/pestdisplace/PMTV
 pestdisplace/PMTV	auspice/pmtv_tree.json	tree	true	https://nextstrain.org/community/pestdisplace/PMTV
+pestdisplace/PMTV_CP	auspice/PMTV_CP_meta.json	meta	true	https://nextstrain.org/community/pestdisplace/PMTV_CP
+pestdisplace/PMTV_CP	auspice/PMTV_CP_tree.json	tree	true	https://nextstrain.org/community/pestdisplace/PMTV_CP
+pestdisplace/pmtv_prueba	auspice/pmtv_prueba_meta.json	meta	true	https://nextstrain.org/community/pestdisplace/pmtv_prueba
+pestdisplace/pmtv_prueba	auspice/pmtv_prueba_tree.json	tree	true	https://nextstrain.org/community/pestdisplace/pmtv_prueba
+phoenixAja/nextstrain_ska	auspice/nextstrain_ska_meta.json	meta	true	https://nextstrain.org/community/phoenixAja/nextstrain_ska
+phoenixAja/nextstrain_ska	auspice/nextstrain_ska_tree.json	tree	true	https://nextstrain.org/community/phoenixAja/nextstrain_ska
+rebeccaearnest/MERS	auspice/MERS_meta.json	meta	true	https://nextstrain.org/community/rebeccaearnest/MERS
+rebeccaearnest/MERS	auspice/MERS_tree.json	tree	true	https://nextstrain.org/community/rebeccaearnest/MERS
+rebeccarosebioinfox/covid	auspice/covid_aa_muts.json		true	https://nextstrain.org/community/rebeccarosebioinfox/covid/aa/muts
+rebeccarosebioinfox/covid	auspice/covid_branch_lengths.json		true	https://nextstrain.org/community/rebeccarosebioinfox/covid/branch/lengths
+rebeccarosebioinfox/covid	auspice/covid_clades.json		true	https://nextstrain.org/community/rebeccarosebioinfox/covid/clades
+rebeccarosebioinfox/covid	auspice/covid_ncov_with_accessions_and_travel_branches.json		true	https://nextstrain.org/community/rebeccarosebioinfox/covid/ncov/with/accessions/and/travel/branches
+rebeccarosebioinfox/covid	auspice/covid_nt_muts.json		true	https://nextstrain.org/community/rebeccarosebioinfox/covid/nt/muts
+rebeccarosebioinfox/covid	auspice/covid_recency.json		true	https://nextstrain.org/community/rebeccarosebioinfox/covid/recency
+rebeccarosebioinfox/covid	auspice/covid_traits.json		true	https://nextstrain.org/community/rebeccarosebioinfox/covid/traits
+rebeccarosebioinfox/covid	auspice/covid_with_accessions.json		true	https://nextstrain.org/community/rebeccarosebioinfox/covid/with/accessions
+rebeccarosebioinfox/covid-LA	auspice/covid-LA_20200507_north-america.json		true	https://nextstrain.org/community/rebeccarosebioinfox/covid-LA/20200507/north-america
+rebeccarosebioinfox/covid-LA	auspice/covid-LA_20200513.json		true	https://nextstrain.org/community/rebeccarosebioinfox/covid-LA/20200513
+rega-cev/ncov_genomicepidemiology_be	auspice/ncov_genomicepidemiology_be.json		true	https://nextstrain.org/community/rega-cev/ncov_genomicepidemiology_be
+rivm-syso/Dutch-NIC-EMC-RIVM	auspice/Dutch-NIC-EMC-RIVM_h1n1pdm-ha_meta.json	meta	true	https://nextstrain.org/community/rivm-syso/Dutch-NIC-EMC-RIVM/h1n1pdm-ha
+rivm-syso/Dutch-NIC-EMC-RIVM	auspice/Dutch-NIC-EMC-RIVM_h1n1pdm-ha_tip-frequencies.json	tip-frequencies	true	https://nextstrain.org/community/rivm-syso/Dutch-NIC-EMC-RIVM/h1n1pdm-ha
+rivm-syso/Dutch-NIC-EMC-RIVM	auspice/Dutch-NIC-EMC-RIVM_h1n1pdm-ha_tree.json	tree	true	https://nextstrain.org/community/rivm-syso/Dutch-NIC-EMC-RIVM/h1n1pdm-ha
+rivm-syso/Dutch-NIC-EMC-RIVM	auspice/Dutch-NIC-EMC-RIVM_h1n1pdm-ha.json		true	https://nextstrain.org/community/rivm-syso/Dutch-NIC-EMC-RIVM/h1n1pdm-ha
+rivm-syso/Dutch-NIC-EMC-RIVM	auspice/Dutch-NIC-EMC-RIVM_h1n1pdm-na_meta.json	meta	true	https://nextstrain.org/community/rivm-syso/Dutch-NIC-EMC-RIVM/h1n1pdm-na
+rivm-syso/Dutch-NIC-EMC-RIVM	auspice/Dutch-NIC-EMC-RIVM_h1n1pdm-na_tip-frequencies.json	tip-frequencies	true	https://nextstrain.org/community/rivm-syso/Dutch-NIC-EMC-RIVM/h1n1pdm-na
+rivm-syso/Dutch-NIC-EMC-RIVM	auspice/Dutch-NIC-EMC-RIVM_h1n1pdm-na_tree.json	tree	true	https://nextstrain.org/community/rivm-syso/Dutch-NIC-EMC-RIVM/h1n1pdm-na
+rivm-syso/Dutch-NIC-EMC-RIVM	auspice/Dutch-NIC-EMC-RIVM_h1n1pdm-na.json		true	https://nextstrain.org/community/rivm-syso/Dutch-NIC-EMC-RIVM/h1n1pdm-na
+rivm-syso/Dutch-NIC-EMC-RIVM	auspice/Dutch-NIC-EMC-RIVM_h3n2-ha_meta.json	meta	true	https://nextstrain.org/community/rivm-syso/Dutch-NIC-EMC-RIVM/h3n2-ha
+rivm-syso/Dutch-NIC-EMC-RIVM	auspice/Dutch-NIC-EMC-RIVM_h3n2-ha_tip-frequencies.json	tip-frequencies	true	https://nextstrain.org/community/rivm-syso/Dutch-NIC-EMC-RIVM/h3n2-ha
+rivm-syso/Dutch-NIC-EMC-RIVM	auspice/Dutch-NIC-EMC-RIVM_h3n2-ha_tree.json	tree	true	https://nextstrain.org/community/rivm-syso/Dutch-NIC-EMC-RIVM/h3n2-ha
+rivm-syso/Dutch-NIC-EMC-RIVM	auspice/Dutch-NIC-EMC-RIVM_h3n2-ha.json		true	https://nextstrain.org/community/rivm-syso/Dutch-NIC-EMC-RIVM/h3n2-ha
+rivm-syso/Dutch-NIC-EMC-RIVM	auspice/Dutch-NIC-EMC-RIVM_h3n2-na_meta.json	meta	true	https://nextstrain.org/community/rivm-syso/Dutch-NIC-EMC-RIVM/h3n2-na
+rivm-syso/Dutch-NIC-EMC-RIVM	auspice/Dutch-NIC-EMC-RIVM_h3n2-na_tip-frequencies.json	tip-frequencies	true	https://nextstrain.org/community/rivm-syso/Dutch-NIC-EMC-RIVM/h3n2-na
+rivm-syso/Dutch-NIC-EMC-RIVM	auspice/Dutch-NIC-EMC-RIVM_h3n2-na_tree.json	tree	true	https://nextstrain.org/community/rivm-syso/Dutch-NIC-EMC-RIVM/h3n2-na
+rivm-syso/Dutch-NIC-EMC-RIVM	auspice/Dutch-NIC-EMC-RIVM_h3n2-na.json		true	https://nextstrain.org/community/rivm-syso/Dutch-NIC-EMC-RIVM/h3n2-na
+rivm-syso/Dutch-NIC-EMC-RIVM	auspice/Dutch-NIC-EMC-RIVM_vic-ha_meta.json	meta	true	https://nextstrain.org/community/rivm-syso/Dutch-NIC-EMC-RIVM/vic-ha
+rivm-syso/Dutch-NIC-EMC-RIVM	auspice/Dutch-NIC-EMC-RIVM_vic-ha_tip-frequencies.json	tip-frequencies	true	https://nextstrain.org/community/rivm-syso/Dutch-NIC-EMC-RIVM/vic-ha
+rivm-syso/Dutch-NIC-EMC-RIVM	auspice/Dutch-NIC-EMC-RIVM_vic-ha_tree.json	tree	true	https://nextstrain.org/community/rivm-syso/Dutch-NIC-EMC-RIVM/vic-ha
+rivm-syso/Dutch-NIC-EMC-RIVM	auspice/Dutch-NIC-EMC-RIVM_vic-ha.json		true	https://nextstrain.org/community/rivm-syso/Dutch-NIC-EMC-RIVM/vic-ha
+rivm-syso/Dutch-NIC-EMC-RIVM	auspice/Dutch-NIC-EMC-RIVM_vic-na_meta.json	meta	true	https://nextstrain.org/community/rivm-syso/Dutch-NIC-EMC-RIVM/vic-na
+rivm-syso/Dutch-NIC-EMC-RIVM	auspice/Dutch-NIC-EMC-RIVM_vic-na_tip-frequencies.json	tip-frequencies	true	https://nextstrain.org/community/rivm-syso/Dutch-NIC-EMC-RIVM/vic-na
+rivm-syso/Dutch-NIC-EMC-RIVM	auspice/Dutch-NIC-EMC-RIVM_vic-na_tree.json	tree	true	https://nextstrain.org/community/rivm-syso/Dutch-NIC-EMC-RIVM/vic-na
+rivm-syso/Dutch-NIC-EMC-RIVM	auspice/Dutch-NIC-EMC-RIVM_vic-na.json		true	https://nextstrain.org/community/rivm-syso/Dutch-NIC-EMC-RIVM/vic-na
+rivm-syso/Dutch-NIC-EMC-RIVM	auspice/Dutch-NIC-EMC-RIVM_yam-ha_meta.json	meta	true	https://nextstrain.org/community/rivm-syso/Dutch-NIC-EMC-RIVM/yam-ha
+rivm-syso/Dutch-NIC-EMC-RIVM	auspice/Dutch-NIC-EMC-RIVM_yam-ha_tip-frequencies.json	tip-frequencies	true	https://nextstrain.org/community/rivm-syso/Dutch-NIC-EMC-RIVM/yam-ha
+rivm-syso/Dutch-NIC-EMC-RIVM	auspice/Dutch-NIC-EMC-RIVM_yam-ha_tree.json	tree	true	https://nextstrain.org/community/rivm-syso/Dutch-NIC-EMC-RIVM/yam-ha
+rivm-syso/Dutch-NIC-EMC-RIVM	auspice/Dutch-NIC-EMC-RIVM_yam-ha.json		true	https://nextstrain.org/community/rivm-syso/Dutch-NIC-EMC-RIVM/yam-ha
+rivm-syso/Dutch-NIC-EMC-RIVM	auspice/Dutch-NIC-EMC-RIVM_yam-na_meta.json	meta	true	https://nextstrain.org/community/rivm-syso/Dutch-NIC-EMC-RIVM/yam-na
+rivm-syso/Dutch-NIC-EMC-RIVM	auspice/Dutch-NIC-EMC-RIVM_yam-na_tip-frequencies.json	tip-frequencies	true	https://nextstrain.org/community/rivm-syso/Dutch-NIC-EMC-RIVM/yam-na
+rivm-syso/Dutch-NIC-EMC-RIVM	auspice/Dutch-NIC-EMC-RIVM_yam-na_tree.json	tree	true	https://nextstrain.org/community/rivm-syso/Dutch-NIC-EMC-RIVM/yam-na
+rivm-syso/Dutch-NIC-EMC-RIVM	auspice/Dutch-NIC-EMC-RIVM_yam-na.json		true	https://nextstrain.org/community/rivm-syso/Dutch-NIC-EMC-RIVM/yam-na
+rneher/FluByCountry	auspice/FluByCountry_aus-nz_h1n1pdm-ha_tip-frequencies.json	tip-frequencies	true	https://nextstrain.org/community/rneher/FluByCountry/aus-nz/h1n1pdm-ha
+rneher/FluByCountry	auspice/FluByCountry_aus-nz_h1n1pdm-ha.json		true	https://nextstrain.org/community/rneher/FluByCountry/aus-nz/h1n1pdm-ha
+rneher/FluByCountry	auspice/FluByCountry_aus-nz_h1n1pdm-na_tip-frequencies.json	tip-frequencies	true	https://nextstrain.org/community/rneher/FluByCountry/aus-nz/h1n1pdm-na
+rneher/FluByCountry	auspice/FluByCountry_aus-nz_h1n1pdm-na.json		true	https://nextstrain.org/community/rneher/FluByCountry/aus-nz/h1n1pdm-na
+rneher/FluByCountry	auspice/FluByCountry_aus-nz_h3n2-ha_tip-frequencies.json	tip-frequencies	true	https://nextstrain.org/community/rneher/FluByCountry/aus-nz/h3n2-ha
+rneher/FluByCountry	auspice/FluByCountry_aus-nz_h3n2-ha.json		true	https://nextstrain.org/community/rneher/FluByCountry/aus-nz/h3n2-ha
+rneher/FluByCountry	auspice/FluByCountry_aus-nz_h3n2-na_tip-frequencies.json	tip-frequencies	true	https://nextstrain.org/community/rneher/FluByCountry/aus-nz/h3n2-na
+rneher/FluByCountry	auspice/FluByCountry_aus-nz_h3n2-na.json		true	https://nextstrain.org/community/rneher/FluByCountry/aus-nz/h3n2-na
+rneher/FluByCountry	auspice/FluByCountry_aus-nz_vic-ha_tip-frequencies.json	tip-frequencies	true	https://nextstrain.org/community/rneher/FluByCountry/aus-nz/vic-ha
+rneher/FluByCountry	auspice/FluByCountry_aus-nz_vic-ha.json		true	https://nextstrain.org/community/rneher/FluByCountry/aus-nz/vic-ha
+rneher/FluByCountry	auspice/FluByCountry_aus-nz_vic-na_tip-frequencies.json	tip-frequencies	true	https://nextstrain.org/community/rneher/FluByCountry/aus-nz/vic-na
+rneher/FluByCountry	auspice/FluByCountry_aus-nz_vic-na.json		true	https://nextstrain.org/community/rneher/FluByCountry/aus-nz/vic-na
+rneher/FluByCountry	auspice/FluByCountry_aus-nz_yam-ha_tip-frequencies.json	tip-frequencies	true	https://nextstrain.org/community/rneher/FluByCountry/aus-nz/yam-ha
+rneher/FluByCountry	auspice/FluByCountry_aus-nz_yam-ha.json		true	https://nextstrain.org/community/rneher/FluByCountry/aus-nz/yam-ha
+rneher/FluByCountry	auspice/FluByCountry_aus-nz_yam-na_tip-frequencies.json	tip-frequencies	true	https://nextstrain.org/community/rneher/FluByCountry/aus-nz/yam-na
+rneher/FluByCountry	auspice/FluByCountry_aus-nz_yam-na.json		true	https://nextstrain.org/community/rneher/FluByCountry/aus-nz/yam-na
 rneher/FluByCountry	auspice/FluByCountry_clades_h1n1pdm_3_0.1_meta.json	meta	true	https://nextstrain.org/community/rneher/FluByCountry/clades/h1n1pdm/3/0.1
+rneher/FluByCountry	auspice/FluByCountry_clades_h1n1pdm_3_0.1_root-sequence.json	root-sequence	true	https://nextstrain.org/community/rneher/FluByCountry/clades/h1n1pdm/3/0.1
 rneher/FluByCountry	auspice/FluByCountry_clades_h1n1pdm_3_0.1_tree.json	tree	true	https://nextstrain.org/community/rneher/FluByCountry/clades/h1n1pdm/3/0.1
 rneher/FluByCountry	auspice/FluByCountry_clades_h1n1pdm_3_0.2_meta.json	meta	true	https://nextstrain.org/community/rneher/FluByCountry/clades/h1n1pdm/3/0.2
+rneher/FluByCountry	auspice/FluByCountry_clades_h1n1pdm_3_0.2_root-sequence.json	root-sequence	true	https://nextstrain.org/community/rneher/FluByCountry/clades/h1n1pdm/3/0.2
 rneher/FluByCountry	auspice/FluByCountry_clades_h1n1pdm_3_0.2_tree.json	tree	true	https://nextstrain.org/community/rneher/FluByCountry/clades/h1n1pdm/3/0.2
 rneher/FluByCountry	auspice/FluByCountry_clades_h1n1pdm_5_0.1_meta.json	meta	true	https://nextstrain.org/community/rneher/FluByCountry/clades/h1n1pdm/5/0.1
+rneher/FluByCountry	auspice/FluByCountry_clades_h1n1pdm_5_0.1_root-sequence.json	root-sequence	true	https://nextstrain.org/community/rneher/FluByCountry/clades/h1n1pdm/5/0.1
 rneher/FluByCountry	auspice/FluByCountry_clades_h1n1pdm_5_0.1_tree.json	tree	true	https://nextstrain.org/community/rneher/FluByCountry/clades/h1n1pdm/5/0.1
 rneher/FluByCountry	auspice/FluByCountry_clades_h1n1pdm_5_0.2_meta.json	meta	true	https://nextstrain.org/community/rneher/FluByCountry/clades/h1n1pdm/5/0.2
+rneher/FluByCountry	auspice/FluByCountry_clades_h1n1pdm_5_0.2_root-sequence.json	root-sequence	true	https://nextstrain.org/community/rneher/FluByCountry/clades/h1n1pdm/5/0.2
 rneher/FluByCountry	auspice/FluByCountry_clades_h1n1pdm_5_0.2_tree.json	tree	true	https://nextstrain.org/community/rneher/FluByCountry/clades/h1n1pdm/5/0.2
 rneher/FluByCountry	auspice/FluByCountry_clades_h3n2_3_0.1_meta.json	meta	true	https://nextstrain.org/community/rneher/FluByCountry/clades/h3n2/3/0.1
 rneher/FluByCountry	auspice/FluByCountry_clades_h3n2_3_0.1_root-sequence.json	root-sequence	true	https://nextstrain.org/community/rneher/FluByCountry/clades/h3n2/3/0.1
@@ -361,15 +710,65 @@ rneher/FluByCountry	auspice/FluByCountry_clades_yam_5_0.1_tree.json	tree	true	ht
 rneher/FluByCountry	auspice/FluByCountry_clades_yam_5_0.2_meta.json	meta	true	https://nextstrain.org/community/rneher/FluByCountry/clades/yam/5/0.2
 rneher/FluByCountry	auspice/FluByCountry_clades_yam_5_0.2_root-sequence.json	root-sequence	true	https://nextstrain.org/community/rneher/FluByCountry/clades/yam/5/0.2
 rneher/FluByCountry	auspice/FluByCountry_clades_yam_5_0.2_tree.json	tree	true	https://nextstrain.org/community/rneher/FluByCountry/clades/yam/5/0.2
-rneher/FluByCountry	auspice/FluByCountry_netherlands_h3n2_ha_2y_cell_hi_meta.json	meta	true	https://nextstrain.org/community/rneher/FluByCountry/netherlands/h3n2/ha/2y/cell/hi
-rneher/FluByCountry	auspice/FluByCountry_netherlands_h3n2_ha_2y_cell_hi_meta.json	meta	true	https://nextstrain.org/community/rneher/FluByCountry/netherlands/h3n2/ha/2y/cell/hi
-rneher/FluByCountry	auspice/FluByCountry_netherlands_h3n2_ha_2y_cell_hi_root-sequence.json	root-sequence	true	https://nextstrain.org/community/rneher/FluByCountry/netherlands/h3n2/ha/2y/cell/hi
-rneher/FluByCountry	auspice/FluByCountry_netherlands_h3n2_ha_2y_cell_hi_root-sequence.json	root-sequence	true	https://nextstrain.org/community/rneher/FluByCountry/netherlands/h3n2/ha/2y/cell/hi
-rneher/FluByCountry	auspice/FluByCountry_netherlands_h3n2_ha_2y_cell_hi_tip-frequencies.json	tip-frequencies	true	https://nextstrain.org/community/rneher/FluByCountry/netherlands/h3n2/ha/2y/cell/hi
-rneher/FluByCountry	auspice/FluByCountry_netherlands_h3n2_ha_2y_cell_hi_tip-frequencies.json	tip-frequencies	true	https://nextstrain.org/community/rneher/FluByCountry/netherlands/h3n2/ha/2y/cell/hi
-rneher/FluByCountry	auspice/FluByCountry_netherlands_h3n2_ha_2y_cell_hi_tree.json	tree	true	https://nextstrain.org/community/rneher/FluByCountry/netherlands/h3n2/ha/2y/cell/hi
-rneher/FluByCountry	auspice/FluByCountry_netherlands_h3n2_ha_2y_cell_hi_tree.json	tree	true	https://nextstrain.org/community/rneher/FluByCountry/netherlands/h3n2/ha/2y/cell/hi
+rneher/FluByCountry	auspice/FluByCountry_east-asia_h1n1pdm-ha_tip-frequencies.json	tip-frequencies	true	https://nextstrain.org/community/rneher/FluByCountry/east-asia/h1n1pdm-ha
+rneher/FluByCountry	auspice/FluByCountry_east-asia_h1n1pdm-ha.json		true	https://nextstrain.org/community/rneher/FluByCountry/east-asia/h1n1pdm-ha
+rneher/FluByCountry	auspice/FluByCountry_east-asia_h1n1pdm-na_tip-frequencies.json	tip-frequencies	true	https://nextstrain.org/community/rneher/FluByCountry/east-asia/h1n1pdm-na
+rneher/FluByCountry	auspice/FluByCountry_east-asia_h1n1pdm-na.json		true	https://nextstrain.org/community/rneher/FluByCountry/east-asia/h1n1pdm-na
+rneher/FluByCountry	auspice/FluByCountry_east-asia_h3n2-ha_tip-frequencies.json	tip-frequencies	true	https://nextstrain.org/community/rneher/FluByCountry/east-asia/h3n2-ha
+rneher/FluByCountry	auspice/FluByCountry_east-asia_h3n2-ha.json		true	https://nextstrain.org/community/rneher/FluByCountry/east-asia/h3n2-ha
+rneher/FluByCountry	auspice/FluByCountry_east-asia_h3n2-na_tip-frequencies.json	tip-frequencies	true	https://nextstrain.org/community/rneher/FluByCountry/east-asia/h3n2-na
+rneher/FluByCountry	auspice/FluByCountry_east-asia_h3n2-na.json		true	https://nextstrain.org/community/rneher/FluByCountry/east-asia/h3n2-na
+rneher/FluByCountry	auspice/FluByCountry_east-asia_vic-ha_tip-frequencies.json	tip-frequencies	true	https://nextstrain.org/community/rneher/FluByCountry/east-asia/vic-ha
+rneher/FluByCountry	auspice/FluByCountry_east-asia_vic-ha.json		true	https://nextstrain.org/community/rneher/FluByCountry/east-asia/vic-ha
+rneher/FluByCountry	auspice/FluByCountry_east-asia_vic-na_tip-frequencies.json	tip-frequencies	true	https://nextstrain.org/community/rneher/FluByCountry/east-asia/vic-na
+rneher/FluByCountry	auspice/FluByCountry_east-asia_vic-na.json		true	https://nextstrain.org/community/rneher/FluByCountry/east-asia/vic-na
+rneher/FluByCountry	auspice/FluByCountry_east-asia_yam-ha_tip-frequencies.json	tip-frequencies	true	https://nextstrain.org/community/rneher/FluByCountry/east-asia/yam-ha
+rneher/FluByCountry	auspice/FluByCountry_east-asia_yam-ha.json		true	https://nextstrain.org/community/rneher/FluByCountry/east-asia/yam-ha
+rneher/FluByCountry	auspice/FluByCountry_east-asia_yam-na_tip-frequencies.json	tip-frequencies	true	https://nextstrain.org/community/rneher/FluByCountry/east-asia/yam-na
+rneher/FluByCountry	auspice/FluByCountry_east-asia_yam-na.json		true	https://nextstrain.org/community/rneher/FluByCountry/east-asia/yam-na
+rneher/FluByCountry	auspice/FluByCountry_Europe_h1n1pdm-ha_tip-frequencies.json	tip-frequencies	true	https://nextstrain.org/community/rneher/FluByCountry/Europe/h1n1pdm-ha
+rneher/FluByCountry	auspice/FluByCountry_Europe_h1n1pdm-ha.json		true	https://nextstrain.org/community/rneher/FluByCountry/Europe/h1n1pdm-ha
+rneher/FluByCountry	auspice/FluByCountry_Europe_h1n1pdm-na_tip-frequencies.json	tip-frequencies	true	https://nextstrain.org/community/rneher/FluByCountry/Europe/h1n1pdm-na
+rneher/FluByCountry	auspice/FluByCountry_Europe_h1n1pdm-na.json		true	https://nextstrain.org/community/rneher/FluByCountry/Europe/h1n1pdm-na
+rneher/FluByCountry	auspice/FluByCountry_Europe_h3n2-ha_tip-frequencies.json	tip-frequencies	true	https://nextstrain.org/community/rneher/FluByCountry/Europe/h3n2-ha
+rneher/FluByCountry	auspice/FluByCountry_Europe_h3n2-ha.json		true	https://nextstrain.org/community/rneher/FluByCountry/Europe/h3n2-ha
+rneher/FluByCountry	auspice/FluByCountry_Europe_h3n2-na_tip-frequencies.json	tip-frequencies	true	https://nextstrain.org/community/rneher/FluByCountry/Europe/h3n2-na
+rneher/FluByCountry	auspice/FluByCountry_Europe_h3n2-na.json		true	https://nextstrain.org/community/rneher/FluByCountry/Europe/h3n2-na
+rneher/FluByCountry	auspice/FluByCountry_Europe_vic-ha_tip-frequencies.json	tip-frequencies	true	https://nextstrain.org/community/rneher/FluByCountry/Europe/vic-ha
+rneher/FluByCountry	auspice/FluByCountry_Europe_vic-ha.json		true	https://nextstrain.org/community/rneher/FluByCountry/Europe/vic-ha
+rneher/FluByCountry	auspice/FluByCountry_Europe_vic-na_tip-frequencies.json	tip-frequencies	true	https://nextstrain.org/community/rneher/FluByCountry/Europe/vic-na
+rneher/FluByCountry	auspice/FluByCountry_Europe_vic-na.json		true	https://nextstrain.org/community/rneher/FluByCountry/Europe/vic-na
+rneher/FluByCountry	auspice/FluByCountry_Europe_yam-ha_tip-frequencies.json	tip-frequencies	true	https://nextstrain.org/community/rneher/FluByCountry/Europe/yam-ha
+rneher/FluByCountry	auspice/FluByCountry_Europe_yam-ha.json		true	https://nextstrain.org/community/rneher/FluByCountry/Europe/yam-ha
+rneher/FluByCountry	auspice/FluByCountry_Europe_yam-na_tip-frequencies.json	tip-frequencies	true	https://nextstrain.org/community/rneher/FluByCountry/Europe/yam-na
+rneher/FluByCountry	auspice/FluByCountry_Europe_yam-na.json		true	https://nextstrain.org/community/rneher/FluByCountry/Europe/yam-na
+rneher/FluByCountry	auspice/FluByCountry_netherlands_h1n1pdm_ha_2y_meta.json	meta	true	https://nextstrain.org/community/rneher/FluByCountry/netherlands/h1n1pdm/ha/2y
+rneher/FluByCountry	auspice/FluByCountry_netherlands_h1n1pdm_ha_2y_tip-frequencies.json	tip-frequencies	true	https://nextstrain.org/community/rneher/FluByCountry/netherlands/h1n1pdm/ha/2y
+rneher/FluByCountry	auspice/FluByCountry_netherlands_h1n1pdm_ha_2y_tree.json	tree	true	https://nextstrain.org/community/rneher/FluByCountry/netherlands/h1n1pdm/ha/2y
+rneher/FluByCountry	auspice/FluByCountry_netherlands_h1n1pdm_na_2y_meta.json	meta	true	https://nextstrain.org/community/rneher/FluByCountry/netherlands/h1n1pdm/na/2y
+rneher/FluByCountry	auspice/FluByCountry_netherlands_h1n1pdm_na_2y_tip-frequencies.json	tip-frequencies	true	https://nextstrain.org/community/rneher/FluByCountry/netherlands/h1n1pdm/na/2y
+rneher/FluByCountry	auspice/FluByCountry_netherlands_h1n1pdm_na_2y_tree.json	tree	true	https://nextstrain.org/community/rneher/FluByCountry/netherlands/h1n1pdm/na/2y
+rneher/FluByCountry	auspice/FluByCountry_netherlands_h3n2_ha_2y_meta.json	meta	true	https://nextstrain.org/community/rneher/FluByCountry/netherlands/h3n2/ha/2y
+rneher/FluByCountry	auspice/FluByCountry_netherlands_h3n2_ha_2y_tip-frequencies.json	tip-frequencies	true	https://nextstrain.org/community/rneher/FluByCountry/netherlands/h3n2/ha/2y
+rneher/FluByCountry	auspice/FluByCountry_netherlands_h3n2_ha_2y_tree.json	tree	true	https://nextstrain.org/community/rneher/FluByCountry/netherlands/h3n2/ha/2y
+rneher/FluByCountry	auspice/FluByCountry_netherlands_h3n2_na_2y_meta.json	meta	true	https://nextstrain.org/community/rneher/FluByCountry/netherlands/h3n2/na/2y
+rneher/FluByCountry	auspice/FluByCountry_netherlands_h3n2_na_2y_tip-frequencies.json	tip-frequencies	true	https://nextstrain.org/community/rneher/FluByCountry/netherlands/h3n2/na/2y
+rneher/FluByCountry	auspice/FluByCountry_netherlands_h3n2_na_2y_tree.json	tree	true	https://nextstrain.org/community/rneher/FluByCountry/netherlands/h3n2/na/2y
+rneher/FluByCountry	auspice/FluByCountry_netherlands_vic_ha_2y_meta.json	meta	true	https://nextstrain.org/community/rneher/FluByCountry/netherlands/vic/ha/2y
+rneher/FluByCountry	auspice/FluByCountry_netherlands_vic_ha_2y_tip-frequencies.json	tip-frequencies	true	https://nextstrain.org/community/rneher/FluByCountry/netherlands/vic/ha/2y
+rneher/FluByCountry	auspice/FluByCountry_netherlands_vic_ha_2y_tree.json	tree	true	https://nextstrain.org/community/rneher/FluByCountry/netherlands/vic/ha/2y
+rneher/FluByCountry	auspice/FluByCountry_netherlands_vic_na_2y_meta.json	meta	true	https://nextstrain.org/community/rneher/FluByCountry/netherlands/vic/na/2y
+rneher/FluByCountry	auspice/FluByCountry_netherlands_vic_na_2y_tip-frequencies.json	tip-frequencies	true	https://nextstrain.org/community/rneher/FluByCountry/netherlands/vic/na/2y
+rneher/FluByCountry	auspice/FluByCountry_netherlands_vic_na_2y_tree.json	tree	true	https://nextstrain.org/community/rneher/FluByCountry/netherlands/vic/na/2y
+rneher/FluByCountry	auspice/FluByCountry_netherlands_yam_ha_2y_meta.json	meta	true	https://nextstrain.org/community/rneher/FluByCountry/netherlands/yam/ha/2y
+rneher/FluByCountry	auspice/FluByCountry_netherlands_yam_ha_2y_tip-frequencies.json	tip-frequencies	true	https://nextstrain.org/community/rneher/FluByCountry/netherlands/yam/ha/2y
+rneher/FluByCountry	auspice/FluByCountry_netherlands_yam_ha_2y_tree.json	tree	true	https://nextstrain.org/community/rneher/FluByCountry/netherlands/yam/ha/2y
+rneher/FluByCountry	auspice/FluByCountry_netherlands_yam_na_2y_meta.json	meta	true	https://nextstrain.org/community/rneher/FluByCountry/netherlands/yam/na/2y
+rneher/FluByCountry	auspice/FluByCountry_netherlands_yam_na_2y_tip-frequencies.json	tip-frequencies	true	https://nextstrain.org/community/rneher/FluByCountry/netherlands/yam/na/2y
+rneher/FluByCountry	auspice/FluByCountry_netherlands_yam_na_2y_tree.json	tree	true	https://nextstrain.org/community/rneher/FluByCountry/netherlands/yam/na/2y
 rneher/GNOME	auspice/GNOME_meta.json	meta	true	https://nextstrain.org/community/rneher/GNOME
+rneher/GNOME	auspice/GNOME_meta.json	meta	true	https://nextstrain.org/community/rneher/GNOME
+rneher/GNOME	auspice/GNOME_tree.json	tree	true	https://nextstrain.org/community/rneher/GNOME
 rneher/GNOME	auspice/GNOME_tree.json	tree	true	https://nextstrain.org/community/rneher/GNOME
 rneher/measles	auspice/measles_all_genome_meta.json	meta	true	https://nextstrain.org/community/rneher/measles/all/genome
 rneher/measles	auspice/measles_all_genome_tree.json	tree	true	https://nextstrain.org/community/rneher/measles/all/genome
@@ -383,7 +782,120 @@ rneher/measles	auspice/measles_d9_N_meta.json	meta	true	https://nextstrain.org/c
 rneher/measles	auspice/measles_d9_N_tree.json	tree	true	https://nextstrain.org/community/rneher/measles/d9/N
 rneher/measles	auspice/measles_h1_N_meta.json	meta	true	https://nextstrain.org/community/rneher/measles/h1/N
 rneher/measles	auspice/measles_h1_N_tree.json	tree	true	https://nextstrain.org/community/rneher/measles/h1/N
-SaundersLab/PST	auspice/PST_meta.json	meta	true	https://nextstrain.org/community/SaundersLab/PST
-SaundersLab/PST	auspice/PST_tree.json	tree	true	https://nextstrain.org/community/SaundersLab/PST
-ssi-dk/N_Meningitidis_sgC_sgW	auspice/N_Meningitidis_sgC_sgW_meta.json	meta	true	https://nextstrain.org/community/ssi-dk/N_Meningitidis_sgC_sgW
-ssi-dk/N_Meningitidis_sgC_sgW	auspice/N_Meningitidis_sgC_sgW_tree.json	tree	true	https://nextstrain.org/community/ssi-dk/N_Meningitidis_sgC_sgW
+rneher/NAflu	auspice/NAflu_h1n1pdm-ha_tip-frequencies.json	tip-frequencies	true	https://nextstrain.org/community/rneher/NAflu/h1n1pdm-ha
+rneher/NAflu	auspice/NAflu_h1n1pdm-ha.json		true	https://nextstrain.org/community/rneher/NAflu/h1n1pdm-ha
+rneher/NAflu	auspice/NAflu_h1n1pdm-na_tip-frequencies.json	tip-frequencies	true	https://nextstrain.org/community/rneher/NAflu/h1n1pdm-na
+rneher/NAflu	auspice/NAflu_h1n1pdm-na.json		true	https://nextstrain.org/community/rneher/NAflu/h1n1pdm-na
+rneher/NAflu	auspice/NAflu_h3n2-ha_tip-frequencies.json	tip-frequencies	true	https://nextstrain.org/community/rneher/NAflu/h3n2-ha
+rneher/NAflu	auspice/NAflu_h3n2-ha.json		true	https://nextstrain.org/community/rneher/NAflu/h3n2-ha
+rneher/NAflu	auspice/NAflu_h3n2-na_tip-frequencies.json	tip-frequencies	true	https://nextstrain.org/community/rneher/NAflu/h3n2-na
+rneher/NAflu	auspice/NAflu_h3n2-na.json		true	https://nextstrain.org/community/rneher/NAflu/h3n2-na
+rneher/NAflu	auspice/NAflu_vic-ha_tip-frequencies.json	tip-frequencies	true	https://nextstrain.org/community/rneher/NAflu/vic-ha
+rneher/NAflu	auspice/NAflu_vic-ha.json		true	https://nextstrain.org/community/rneher/NAflu/vic-ha
+rneher/NAflu	auspice/NAflu_vic-na_tip-frequencies.json	tip-frequencies	true	https://nextstrain.org/community/rneher/NAflu/vic-na
+rneher/NAflu	auspice/NAflu_vic-na.json		true	https://nextstrain.org/community/rneher/NAflu/vic-na
+rneher/NAflu	auspice/NAflu_yam-ha_tip-frequencies.json	tip-frequencies	true	https://nextstrain.org/community/rneher/NAflu/yam-ha
+rneher/NAflu	auspice/NAflu_yam-ha.json		true	https://nextstrain.org/community/rneher/NAflu/yam-ha
+rneher/NAflu	auspice/NAflu_yam-na_tip-frequencies.json	tip-frequencies	true	https://nextstrain.org/community/rneher/NAflu/yam-na
+rneher/NAflu	auspice/NAflu_yam-na.json		true	https://nextstrain.org/community/rneher/NAflu/yam-na
+rneher/Wuhan-BCov	auspice/Wuhan-BCov_full.json		true	https://nextstrain.org/community/rneher/Wuhan-BCov/full
+rneher/Wuhan-BCov	auspice/Wuhan-BCov_s00000.json		true	https://nextstrain.org/community/rneher/Wuhan-BCov/s00000
+rneher/Wuhan-BCov	auspice/Wuhan-BCov_s05000.json		true	https://nextstrain.org/community/rneher/Wuhan-BCov/s05000
+rneher/Wuhan-BCov	auspice/Wuhan-BCov_s10000.json		true	https://nextstrain.org/community/rneher/Wuhan-BCov/s10000
+rneher/Wuhan-BCov	auspice/Wuhan-BCov_s15000.json		true	https://nextstrain.org/community/rneher/Wuhan-BCov/s15000
+rneher/Wuhan-BCov	auspice/Wuhan-BCov_s20000.json		true	https://nextstrain.org/community/rneher/Wuhan-BCov/s20000
+rneher/Wuhan-BCov	auspice/Wuhan-BCov_s25000.json		true	https://nextstrain.org/community/rneher/Wuhan-BCov/s25000
+salama-lab/Hp-J99	auspice/Hp-J99_meta.json	meta	true	https://nextstrain.org/community/salama-lab/Hp-J99
+salama-lab/Hp-J99	auspice/Hp-J99_tree.json	tree	true	https://nextstrain.org/community/salama-lab/Hp-J99
+sarahlapidus/Borrelia-burgdorferi	auspice/Borrelia-burgdorferi_meta.json	meta	true	https://nextstrain.org/community/sarahlapidus/Borrelia-burgdorferi
+sarahlapidus/Borrelia-burgdorferi	auspice/Borrelia-burgdorferi_tree.json	tree	true	https://nextstrain.org/community/sarahlapidus/Borrelia-burgdorferi
+sarahlapidus/Borrelia-burgdorferi-genomics	auspice/Borrelia-burgdorferi-genomics_meta.json	meta	true	https://nextstrain.org/community/sarahlapidus/Borrelia-burgdorferi-genomics
+sarahlapidus/Borrelia-burgdorferi-genomics	auspice/Borrelia-burgdorferi-genomics_tree.json	tree	true	https://nextstrain.org/community/sarahlapidus/Borrelia-burgdorferi-genomics
+SaundersLab/PST	auspice/PST.json		true	https://nextstrain.org/community/SaundersLab/PST
+Simon-LoriereLab/SARS-CoV-2-France	auspice/SARS-CoV-2-France_v1.json		true	https://nextstrain.org/community/Simon-LoriereLab/SARS-CoV-2-France/v1
+sowpati/auspice	auspice/auspice_global.json		true	https://nextstrain.org/community/sowpati/auspice/global
+sowpati/auspice	auspice/auspice_india.json		true	https://nextstrain.org/community/sowpati/auspice/india
+srirampendyala/gs541-phylogeography	auspice/gs541-phylogeography.json		true	https://nextstrain.org/community/srirampendyala/gs541-phylogeography
+srirampendyala/gs541-phylogeography	auspice/ncov_global_tip-frequencies.json	tip-frequencies	false	
+ssi-dk/CC398_global_phylogeny	auspice/CC398_global_phylogeny_meta.json	meta	true	https://nextstrain.org/community/ssi-dk/CC398_global_phylogeny
+ssi-dk/CC398_global_phylogeny	auspice/CC398_global_phylogeny_tree.json	tree	true	https://nextstrain.org/community/ssi-dk/CC398_global_phylogeny
+ssi-dk/N_Meningitidis_CC11_SgC_SgW	auspice/N_Meningitidis_CC11_SgC_SgW.json		true	https://nextstrain.org/community/ssi-dk/N_Meningitidis_CC11_SgC_SgW
+Stygiophobic/CNR-influenza	auspice/CNR-influenza_BVIC-S4.json		true	https://nextstrain.org/community/Stygiophobic/CNR-influenza/BVIC-S4
+Stygiophobic/CNR-influenza	auspice/CNR-influenza_BVIC-S6.json		true	https://nextstrain.org/community/Stygiophobic/CNR-influenza/BVIC-S6
+Stygiophobic/CNR-influenza	auspice/CNR-influenza_BYAM-S4.json		true	https://nextstrain.org/community/Stygiophobic/CNR-influenza/BYAM-S4
+Stygiophobic/CNR-influenza	auspice/CNR-influenza_BYAM-S6.json		true	https://nextstrain.org/community/Stygiophobic/CNR-influenza/BYAM-S6
+Stygiophobic/CNR-influenza	auspice/CNR-influenza_H1N1-S4.json		true	https://nextstrain.org/community/Stygiophobic/CNR-influenza/H1N1-S4
+Stygiophobic/CNR-influenza	auspice/CNR-influenza_H1N1-S6.json		true	https://nextstrain.org/community/Stygiophobic/CNR-influenza/H1N1-S6
+Stygiophobic/CNR-influenza	auspice/CNR-influenza_H3N2-S4.json		true	https://nextstrain.org/community/Stygiophobic/CNR-influenza/H3N2-S4
+Stygiophobic/CNR-influenza	auspice/CNR-influenza_H3N2-S6.json		true	https://nextstrain.org/community/Stygiophobic/CNR-influenza/H3N2-S6
+Stygiophobic/CNR-ncov	auspice/CNR-ncov_data.json		true	https://nextstrain.org/community/Stygiophobic/CNR-ncov/data
+Stygiophobic/GIHSN-NEXTSTRAIN	auspice/GIHSN-NEXTSTRAIN_ALLH1N1.json		true	https://nextstrain.org/community/Stygiophobic/GIHSN-NEXTSTRAIN/ALLH1N1
+Stygiophobic/GIHSN-NEXTSTRAIN	auspice/GIHSN-NEXTSTRAIN_ALLH3N2.json		true	https://nextstrain.org/community/Stygiophobic/GIHSN-NEXTSTRAIN/ALLH3N2
+Stygiophobic/GIHSN-NEXTSTRAIN	auspice/GIHSN-NEXTSTRAIN_BVIC.json		true	https://nextstrain.org/community/Stygiophobic/GIHSN-NEXTSTRAIN/BVIC
+Stygiophobic/GIHSN-NEXTSTRAIN	auspice/GIHSN-NEXTSTRAIN_GIHSN.json		true	https://nextstrain.org/community/Stygiophobic/GIHSN-NEXTSTRAIN/GIHSN
+Stygiophobic/GIHSN-NEXTSTRAIN	auspice/GIHSN-NEXTSTRAIN_GLOBAL.json		true	https://nextstrain.org/community/Stygiophobic/GIHSN-NEXTSTRAIN/GLOBAL
+Stygiophobic/GIHSN-NEXTSTRAIN	auspice/GIHSN-NEXTSTRAIN_H1N1.json		true	https://nextstrain.org/community/Stygiophobic/GIHSN-NEXTSTRAIN/H1N1
+Stygiophobic/GIHSN-NEXTSTRAIN	auspice/GIHSN-NEXTSTRAIN_H3N2.json		true	https://nextstrain.org/community/Stygiophobic/GIHSN-NEXTSTRAIN/H3N2
+Stygiophobic/GIHSN-NEXTSTRAIN	auspice/GISAID-NEXTSTRAIN_GIHSN_H1N1.json		false	
+Stygiophobic/GIHSN-NEXTSTRAIN	auspice/GISAID-VISUALISATION_GIHSN_H1N1.json		false	
+Stygiophobic/GISAID-VISUALISATION	auspice/GISAID-VISUALISATION_ALL-DATA.json		true	https://nextstrain.org/community/Stygiophobic/GISAID-VISUALISATION/ALL-DATA
+Stygiophobic/GISAID-VISUALISATION	auspice/GISAID-VISUALISATION_BVIC-AUS.json		true	https://nextstrain.org/community/Stygiophobic/GISAID-VISUALISATION/BVIC-AUS
+Stygiophobic/GISAID-VISUALISATION	auspice/GISAID-VISUALISATION_BVIC-ESP.json		true	https://nextstrain.org/community/Stygiophobic/GISAID-VISUALISATION/BVIC-ESP
+Stygiophobic/GISAID-VISUALISATION	auspice/GISAID-VISUALISATION_BVIC-FR.json		true	https://nextstrain.org/community/Stygiophobic/GISAID-VISUALISATION/BVIC-FR
+Stygiophobic/GISAID-VISUALISATION	auspice/GISAID-VISUALISATION_BVIC-LUX.json		true	https://nextstrain.org/community/Stygiophobic/GISAID-VISUALISATION/BVIC-LUX
+Stygiophobic/GISAID-VISUALISATION	auspice/GISAID-VISUALISATION_BVIC-ROM.json		true	https://nextstrain.org/community/Stygiophobic/GISAID-VISUALISATION/BVIC-ROM
+Stygiophobic/GISAID-VISUALISATION	auspice/GISAID-VISUALISATION_BVIC-UK.json		true	https://nextstrain.org/community/Stygiophobic/GISAID-VISUALISATION/BVIC-UK
+Stygiophobic/GISAID-VISUALISATION	auspice/GISAID-VISUALISATION_BYAM-AUS.json		true	https://nextstrain.org/community/Stygiophobic/GISAID-VISUALISATION/BYAM-AUS
+Stygiophobic/GISAID-VISUALISATION	auspice/GISAID-VISUALISATION_BYAM-FR.json		true	https://nextstrain.org/community/Stygiophobic/GISAID-VISUALISATION/BYAM-FR
+Stygiophobic/GISAID-VISUALISATION	auspice/GISAID-VISUALISATION_H1N1_UK.json		true	https://nextstrain.org/community/Stygiophobic/GISAID-VISUALISATION/H1N1/UK
+Stygiophobic/GISAID-VISUALISATION	auspice/GISAID-VISUALISATION_H1N1-AUS.json		true	https://nextstrain.org/community/Stygiophobic/GISAID-VISUALISATION/H1N1-AUS
+Stygiophobic/GISAID-VISUALISATION	auspice/GISAID-VISUALISATION_H1N1-ESP.json		true	https://nextstrain.org/community/Stygiophobic/GISAID-VISUALISATION/H1N1-ESP
+Stygiophobic/GISAID-VISUALISATION	auspice/GISAID-VISUALISATION_H1N1-FR.json		true	https://nextstrain.org/community/Stygiophobic/GISAID-VISUALISATION/H1N1-FR
+Stygiophobic/GISAID-VISUALISATION	auspice/GISAID-VISUALISATION_H1N1-LUX.json		true	https://nextstrain.org/community/Stygiophobic/GISAID-VISUALISATION/H1N1-LUX
+Stygiophobic/GISAID-VISUALISATION	auspice/GISAID-VISUALISATION_H1N1-ROM.json		true	https://nextstrain.org/community/Stygiophobic/GISAID-VISUALISATION/H1N1-ROM
+Stygiophobic/GISAID-VISUALISATION	auspice/GISAID-VISUALISATION_H3N2_UK.json		true	https://nextstrain.org/community/Stygiophobic/GISAID-VISUALISATION/H3N2/UK
+Stygiophobic/GISAID-VISUALISATION	auspice/GISAID-VISUALISATION_H3N2-AUS.json		true	https://nextstrain.org/community/Stygiophobic/GISAID-VISUALISATION/H3N2-AUS
+Stygiophobic/GISAID-VISUALISATION	auspice/GISAID-VISUALISATION_H3N2-ESP.json		true	https://nextstrain.org/community/Stygiophobic/GISAID-VISUALISATION/H3N2-ESP
+Stygiophobic/GISAID-VISUALISATION	auspice/GISAID-VISUALISATION_H3N2-FR.json		true	https://nextstrain.org/community/Stygiophobic/GISAID-VISUALISATION/H3N2-FR
+Stygiophobic/GISAID-VISUALISATION	auspice/GISAID-VISUALISATION_H3N2-LUX.json		true	https://nextstrain.org/community/Stygiophobic/GISAID-VISUALISATION/H3N2-LUX
+Stygiophobic/GISAID-VISUALISATION	auspice/GISAID-VISUALISATION_H3N2-ROM.json		true	https://nextstrain.org/community/Stygiophobic/GISAID-VISUALISATION/H3N2-ROM
+teisens/The-2009-H1N1-Pandemic	auspice/The-2009-H1N1-Pandemic_meta.json	meta	true	https://nextstrain.org/community/teisens/The-2009-H1N1-Pandemic
+teisens/The-2009-H1N1-Pandemic	auspice/The-2009-H1N1-Pandemic_tree.json	tree	true	https://nextstrain.org/community/teisens/The-2009-H1N1-Pandemic
+tessacarter/Bat-Rabies-CA	auspice/Bat-Rabies-CA_meta.json	meta	true	https://nextstrain.org/community/tessacarter/Bat-Rabies-CA
+tessacarter/Bat-Rabies-CA	auspice/Bat-Rabies-CA_tree.json	tree	true	https://nextstrain.org/community/tessacarter/Bat-Rabies-CA
+TGenNorth/arizona-covid-19	auspice/arizona-covid-19.json		true	https://nextstrain.org/community/TGenNorth/arizona-covid-19
+TGenNorth/arizona-covid-19	auspice/ncov_2020-03-12.json		false	
+TGenNorth/arizona-covid-19	auspice/ncov_2020-03-12.json		false	
+TGenNorth/arizona-covid-19	auspice/ncov_2020-03-19.json		false	
+TGenNorth/arizona-covid-19	auspice/ncov_2020-03-19.json		false	
+TGenNorth/arizona-covid-19	auspice/ncov_2020-03-26_tip-frequencies.json	tip-frequencies	false	
+TGenNorth/arizona-covid-19	auspice/ncov_2020-03-26.json		false	
+TGenNorth/arizona-covid-19	auspice/ncov_2020-03-26.json		false	
+TGenNorth/arizona-covid-19	auspice/ncov_2020-05-14.json		false	
+TGenNorth/arizona-covid-19	auspice/ncov_2020-05-20.json		false	
+TGenNorth/arizona-covid-19	auspice/ncov_gisaid.json		false	
+TGenNorth/arizona-covid-19	auspice/ncov_tip-frequencies.json	tip-frequencies	false	
+TGenNorth/nextstrain-misc	auspice/ncov_2020-03-12.json		false	
+TGenNorth/nextstrain-misc	auspice/ncov_2020-03-19.json		false	
+TGenNorth/nextstrain-misc	auspice/ncov_2020-03-26_tip-frequencies.json	tip-frequencies	false	
+TGenNorth/nextstrain-misc	auspice/ncov_2020-03-26.json		false	
+TGenNorth/nextstrain-misc	auspice/ncov_2020-04-22_tip-frequencies.json	tip-frequencies	false	
+TGenNorth/nextstrain-misc	auspice/ncov_2020-04-22.json		false	
+TGenNorth/nextstrain-misc	auspice/ncov_2020-04-23.json		false	
+TGenNorth/nextstrain-misc	auspice/ncov_2020-04-27.json		false	
+TGenNorth/nextstrain-misc	auspice/ncov_gisaid.json		false	
+TGenNorth/nextstrain-misc	auspice/ncov_tip-frequencies.json	tip-frequencies	false	
+TGenNorth/nextstrain-misc	auspice/ncov_zh.json		false	
+TGenNorth/nextstrain-misc	auspice/nextstrain-misc.json		true	https://nextstrain.org/community/TGenNorth/nextstrain-misc
+trangtran2015/DENVinSoutheastAsia	auspice/DENVinSoutheastAsia_meta.json	meta	true	https://nextstrain.org/community/trangtran2015/DENVinSoutheastAsia
+trangtran2015/DENVinSoutheastAsia	auspice/DENVinSoutheastAsia_tree.json	tree	true	https://nextstrain.org/community/trangtran2015/DENVinSoutheastAsia
+trvrb/gs541-phylogeography	auspice/gs541-phylogeography.json		true	https://nextstrain.org/community/trvrb/gs541-phylogeography
+vestalgd/covidfl	auspice/covidfl.json		true	https://nextstrain.org/community/vestalgd/covidfl
+ViennaRNA/CHIKV	auspice/CHIKV.json		true	https://nextstrain.org/community/ViennaRNA/CHIKV
+viv3kanand/COVID-19	auspice/COVID-19.json		true	https://nextstrain.org/community/viv3kanand/COVID-19
+Wesstic/Usutu-Virus	auspice/Usutu-Virus.json		true	https://nextstrain.org/community/Wesstic/Usutu-Virus
+WillHannon-MCB/gs541-phylogeography	auspice/gs541-phylogeography.json		true	https://nextstrain.org/community/WillHannon-MCB/gs541-phylogeography
+YoungClaire/Nipah_Virus	auspice/Nipah_Virus_meta.json	meta	true	https://nextstrain.org/community/YoungClaire/Nipah_Virus
+YoungClaire/Nipah_Virus	auspice/Nipah_Virus_tree.json	tree	true	https://nextstrain.org/community/YoungClaire/Nipah_Virus
+zorian15/gs541-phylogeography	auspice/gs541-phylogeography.json		true	https://nextstrain.org/community/zorian15/gs541-phylogeography
+zorian15/gs541-phylogeography	auspice/ncov_global_tip-frequencies.json	tip-frequencies	false	

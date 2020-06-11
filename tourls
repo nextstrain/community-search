@@ -1,0 +1,3 @@
+#!/bin/bash
+set -euo pipefail
+jq --raw-output '.url | values' "$1" | sort -iu | perl -pe 's/^/- </; s/$/>/'

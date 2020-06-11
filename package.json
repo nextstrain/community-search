@@ -1,6 +1,7 @@
 {
   "private": true,
   "dependencies": {
+    "@octokit/plugin-throttling": "^3.2.2",
     "@octokit/rest": "^16.28.9"
   }
 }

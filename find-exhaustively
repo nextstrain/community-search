@@ -1,0 +1,49 @@
+#!/bin/bash
+set -euo pipefail
+
+base="$(dirname "$0")"
+
+main() {
+    local -r current="$1"
+    local -r new="$1.new"
+    local -i added
+    local -i added_zero=0
+    local -i iteration=1
+    local -ir added_zero_limit=5
+    local -ir iteration_limit=15
+
+    if [[ ! -e "$current" ]]; then
+        touch "$current"
+    fi
+
+    while [[ $added_zero -lt $added_zero_limit && $iteration -le $iteration_limit ]]; do
+        SECONDS=0
+
+        echo "Searching… (iteration $iteration of up to $iteration_limit)"
+        "$base"/find | "$base"/combine "$current" /dev/stdin > "$new"
+
+        echo "  …took ${SECONDS}s"
+
+        added=$(count-additions "$current" "$new")
+        if [[ $added -eq 0 ]]; then
+            added_zero+=1
+        else
+            added_zero=0
+        fi
+        echo "  …found $added additions (zero streak $added_zero/$added_zero_limit)"
+
+        iteration+=1
+
+        mv "$new" "$current"
+    done
+}
+
+count-additions() {
+    echo $(( $(line-count "$2") - $(line-count "$1") ))
+}
+
+line-count() {
+    wc -l "$1" | awk '{print $1}'
+}
+
+main "$@"

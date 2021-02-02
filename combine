@@ -1,0 +1,8 @@
+#!/bin/bash
+set -euo pipefail
+
+jq --slurp --compact-output '
+      sort_by([.repo.full_name, .file])
+    | unique_by([.repo.full_name, .file])
+    | .[]
+' "$@"

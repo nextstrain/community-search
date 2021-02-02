@@ -9,5 +9,4 @@ community-urls.md: community.ndjson
 	mv -v $@.new $@
 
 community.ndjson:
-	./find > $@.new
-	mv -v $@.new $@
+	./find-exhaustively $@
